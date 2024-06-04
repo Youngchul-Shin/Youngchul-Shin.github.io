@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: Youngchul Shin
+title: 'Please visit webiste of our labaratory [SLSCM Lab](https://ycshin.oopy.io/)'
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 Please visit webiste of our labaratory [SLSCM Lab](https://ycshin.oopy.io/)
+
+
 
 * Assistant Professor, Ph.D.
 * Department of Industrial Engineering
