@@ -52,7 +52,7 @@ redirect_from:
   * Supply chain planning under an uncertain environment
   * Contract design for supply chain coordination
   * Inventory management
-  * Closed-loop supply chain & Reverse logistiscs 
+  * Closed-loop supply chain, Reverse logistiscs 
   * Demand forecasting
 
  
