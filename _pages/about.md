@@ -28,7 +28,20 @@ You can also visit our labaratory website - [SLSCM Lab](https://ycshin.oopy.io/)
 
 ## Research Areas
 * Applications of OR / ML
-  * Stochastic programming 
+  * Stochastic programming, Robust optimization, Distributionally robust optimization 
+  * Reinforcement learning, Approximate dynamic programming
+  * Machine learning / Deep learning
+  * Approximation algorithm
+  * Discrete-event simulation
+ 
+* Supply Chain Management
+  * Supply chain network design
+  * Supply chain planning under an uncertain environment
+  * Contract design for supply chain coordination
+  * Inventory management
+  * Closed-loop supply chain & Reverse logistiscs 
+  * Demand forecasting
+
  
 ## Education
 * Ph. D. in Industrial Engineering, Seoul National University (2020)
