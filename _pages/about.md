@@ -26,6 +26,10 @@ You can also visit our labaratory website - [SLSCM Lab](https://ycshin.oopy.io/)
 * KSCM학회 추계학술대회 최우수논문상 (2017)
 * KSCM학회 추계학술대회 최우수논문상 (2017)
 
+## Research Areas
+* Applications of OR / ML
+  * Stochastic programming 
+ 
 ## Education
 * Ph. D. in Industrial Engineering, Seoul National University (2020)
 * M.S. in Industrial Engineering, Seoul National University (2017)
