@@ -6,14 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-You can also visit our labaratory website - [SLSCM Lab](https://ycshin.oopy.io/)
-
 ## Youngchul Shin
 * Assistant Professor, Ph.D.
 * Department of Industrial Engineering
 * Ajou University (2022 - Current)
 * E-mail: youngchul@ajou.ac.kr
 * Phone: +82-31-219-2424
+* Lab: [SLSCM Lab](https://ycshin.oopy.io/)
 
 ## Work Experience
 * Assistant Professor, Department of Industrial Engineering, Ajou University (2022 - Current)
