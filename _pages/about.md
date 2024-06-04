@@ -9,7 +9,7 @@ redirect_from:
 ## Youngchul Shin
 * Assistant Professor, Ph.D.
 * Department of Industrial Engineering
-* Ajou University (2022 - Current)
+* Ajou University
 * E-mail: youngchul@ajou.ac.kr
 * Phone: +82-31-219-2424
 * Lab: [SLSCM Lab](https://ycshin.oopy.io/)
@@ -17,13 +17,6 @@ redirect_from:
 ## Work Experience
 * Assistant Professor, Department of Industrial Engineering, Ajou University (2022 - Current)
 * Samsung Electronics, Division of DS (2020 - 2022)
-
-## Awards
-* 아주대학교 연구우수교수 (2023)
-* 한국산업경영시스템학회 추계학술대회 우수연구상 (2023)
-* 아주대학교 교육우수교수 우수상 (2022)
-* KSCM학회 추계학술대회 최우수논문상 (2017)
-* KSCM학회 추계학술대회 최우수논문상 (2017)
 
 ## Research Areas
 * Applications of OR / ML
@@ -55,6 +48,12 @@ redirect_from:
   * Closed-loop supply chain, Reverse logistiscs 
   * Demand forecasting
 
+## Awards
+* 아주대학교 연구우수교수 (2023)
+* 한국산업경영시스템학회 추계학술대회 우수연구상 (2023)
+* 아주대학교 교육우수교수 우수상 (2022)
+* KSCM학회 추계학술대회 최우수논문상 (2017)
+* KSCM학회 추계학술대회 최우수논문상 (2017)
  
 ## Education
 * Ph. D. in Industrial Engineering, Seoul National University (2020)
