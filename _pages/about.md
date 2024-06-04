@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: 'Please visit webiste of our labaratory [SLSCM Lab](https://ycshin.oopy.io/)'
+title: Youngchul Shin
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 Please visit webiste of our labaratory [SLSCM Lab](https://ycshin.oopy.io/)
-
 
 
 * Assistant Professor, Ph.D.
@@ -21,13 +20,13 @@ Please visit webiste of our labaratory [SLSCM Lab](https://ycshin.oopy.io/)
 * Samsung Electronics, Division of DS (2020 - 2022)
 
 ## Education
-* 2020. Ph. D. in Industrial Engineering, Seoul National University
-* 2017. M.S. in Industrial Engineering, Seoul National University
-* 2015. B.S. in Industrial Engineering, Hanyang University
+* Ph. D. in Industrial Engineering, Seoul National University (2020)
+* M.S. in Industrial Engineering, Seoul National University (2017)
+* B.S. in Industrial Engineering, Hanyang University (2015)
 
 ## Academic Services
-* Guest editor for Special Issue of Annals of Operations Research
-* Invited reviewer for Computers & Operations Research, International Journal of Production Research, Transportation Research Part B: Methodological, European Journal of Operational Research, European Journal of Industrial Engineering, International Journal of Technology Marketing, Journal of the Korean Institute of Industrial Engineers, Industrial Engineering & Management Systems, Maritime Policy & Management
+* Guest editor for Special Issue of _Annals of Operations Research_
+* Invited reviewer for _Computers & Operations Research, International Journal of Production Research, Transportation Research Part B: Methodological, European Journal of Operational Research, European Journal of Industrial Engineering, International Journal of Technology Marketing, Journal of the Korean Institute of Industrial Engineers, Industrial Engineering & Management Systems, Maritime Policy & Management_
 
 ## Academic Activities
 * 대한산업공학회 IE매거진 편집위원
