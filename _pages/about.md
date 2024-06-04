@@ -16,7 +16,7 @@ redirect_from:
 
 ## Work Experience
 * Assistant Professor, Department of Industrial Engineering, Ajou University (2022 - Current)
-* Samsung Electronics, Division of DS (2020 - 2022)
+* Staff (Senior) Engineer, AMHS Group, MES Team, DIT (Innovation) Center, Division of DS, Samsung Electronics (2020 - 2022)
 
 ## Research Areas
 * Applications of OR / ML
