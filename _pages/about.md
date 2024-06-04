@@ -14,7 +14,7 @@ redirect_from:
 * Lab: [SLSCM Lab](https://ycshin.oopy.io/)
 
 ## Work Experience
-* Assistant Professor, Ajou University (2022 - Current)
+* Ajou University (2022 - Current)
 * Staff (Senior) Engineer, AMHS Group, MES Team, DIT (Innovation) Center, Division of DS, Samsung Electronics (2020 - 2022)
 
 ## Research Areas
