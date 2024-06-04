@@ -12,12 +12,10 @@ title                    : "Youngchul Shin"
 title_separator          : "-"
 name                     : &name "Youngchul Shin"
 description              : &description "Assistant professor of Ajou Univ."
-url                      : https://Youngchul-Shin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Youngchul-Shin.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
-plugins:
-  - jekyll-remote-theme
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -28,7 +26,6 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Youngchul Shin"
-  pronouns         : # example: "she/her"  
   bio              : "Assistant professor of Ajou Univ."
   location         : "Suwon, South Korea"
   employer         : "Ajou University"
@@ -37,8 +34,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
+  googlescholar    : "https://scholar.google.com/citations?hl=ko&user=xYxC9DMAAAAJ"
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   researchgate     : # URL
@@ -47,7 +43,6 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
