@@ -29,11 +29,25 @@ You can also visit our labaratory website - [SLSCM Lab](https://ycshin.oopy.io/)
 ## Research Areas
 * Applications of OR / ML
   * Stochastic programming, Robust optimization, Distributionally robust optimization 
-  * Reinforcement learning, Approximate dynamic programming
-  * Machine learning / Deep learning
-  * Approximation algorithm
+  * Approximate dynamic programming, Approximation algorithm
+  * Reinforcement learning, Machine learning, Deep learning
   * Discrete-event simulation
  
+* Smart Logistics
+  * Autonomous warehouse robots
+  * Last-mile delivery route optimization
+  * Distribution network optimization
+  * Omnichannel (e-commerce) logistics
+  * Transportation system planning
+  * Maritime logistics
+
+* Smart Factory
+  * Scheduling, Production planning and control
+  * Product-mix optimization
+  * Automated material handling systems (OHT, AGV, mobile robot, ...)
+  * Anomaly detection, Fault diagnosis
+  * Capacity planning
+
 * Supply Chain Management
   * Supply chain network design
   * Supply chain planning under an uncertain environment
