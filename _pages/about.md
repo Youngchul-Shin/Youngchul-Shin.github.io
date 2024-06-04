@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: Youngchul Shin
+title: Home
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-Please visit webiste of our labaratory [SLSCM Lab](https://ycshin.oopy.io/)
+You can also visit our labaratory website - [SLSCM Lab](https://ycshin.oopy.io/)
 
-
+## Youngchul Shin
 * Assistant Professor, Ph.D.
 * Department of Industrial Engineering
 * Ajou University (2022 - Current)
