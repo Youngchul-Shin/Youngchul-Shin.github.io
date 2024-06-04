@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Youngchul Shin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant professor of Ajou Univ."
+  location         : "Suwon, South Korea"
+  employer         : "Ajou University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "youngchul@ajou.ac.kr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
