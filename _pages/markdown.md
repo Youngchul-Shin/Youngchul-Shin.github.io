@@ -16,7 +16,7 @@ redirect_from:
 
 ## Completed Projects (아주대학교)
 * 실시간 파형 데이터의 Classification 및 최적 조건 도출 
-  * 삼성SDI: 2023.05 - 2024.04)
+  * 삼성SDI (2023.05 - 2024.04)
 * 분포강건최적화 기반 FAB 내 유휴 OHT 차량 사전 재배치 전략 
   * 아주대학교
 
