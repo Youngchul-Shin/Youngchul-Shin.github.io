@@ -8,14 +8,13 @@ redirect_from:
 ---
 ## Youngchul Shin
 * Assistant Professor, Ph.D.
-* Department of Industrial Engineering
-* Ajou University
+* Dept. of Industrial Engineering, Ajou Univ.
 * E-mail: youngchul@ajou.ac.kr
 * Phone: +82-31-219-2424
 * Lab: [SLSCM Lab](https://ycshin.oopy.io/)
 
 ## Work Experience
-* Assistant Professor, Department of Industrial Engineering, Ajou University (2022 - Current)
+* Assistant Professor, Ajou University (2022 - Current)
 * Staff (Senior) Engineer, AMHS Group, MES Team, DIT (Innovation) Center, Division of DS, Samsung Electronics (2020 - 2022)
 
 ## Research Areas
