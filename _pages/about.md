@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Welcome to the personal website of Youngchul Shin
+title: Youngchul Shin's personal website
 author_profile: true
 redirect_from:
   - /about/
