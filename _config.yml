@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Y. Shin"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Youngchul Shin"
 description              : &description "Assistant professor of Ajou Univ."
@@ -26,7 +26,7 @@ author:
   # Biographic information
   avatar           : "ycshin.jpg"
   name             : "Youngchul Shin"
-  bio              : "Assistant professor of Ajou Univ."
+  bio              : "Assistant professor at Ajou Univ."
   location         : "Suwon, South Korea"
   employer         : "Ajou University"
   uri              : # URL
