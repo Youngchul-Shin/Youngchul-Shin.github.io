@@ -29,3 +29,25 @@ author_profile: true
 <br>S. Kim, **Y. Shin**, G. Lee, and I.K. Moon*. (2018) [_Applied Mathematical Modelling_](https://www.sciencedirect.com/journal/applied-mathematical-modelling), 64, 510 - 523.
 * Early stage response problem for post-disaster incidents
 <br>S. Kim, **Y. Shin**, G. Lee, and I.K. Moon*. (2018) [_Engineering Optimization_](https://www.tandfonline.com/journals/geno20), 50(7), 1198 - 1211.
+
+## Submitted Papers
+* Flexible Material Handling System for Multi-Load Autonomous Mobile Robots in Manufacturing Environments: A Deep Reinforcement Learning Approach
+* An Efficient Algorithm for Skyport Location Problem with Choice-based Demand Model
+* Uncertain demurrage and detention decisions in hinterland container management
+* New Mathematical Formulation for Idle OHT Vehicle Repositioning: Maximization of Repositioning Success Probability
+* Determination of Optimal Welding Sequence with Multiple Robotic Arms: A Robust Optimization Approach
+* Two-stage Robust Optimization Approach for Integrated Supply Chain with Hybrid-dark Stores
+* An Efficient Algorithm for Void Fills Insertion in E-commerce Parcel Boxes: A Smart Packaging System
+* Reliable mobile multi-agent monitoring problem under failure
+* Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
+
+## Working Papers
+* Return Management System for Multi-tier Closed-loop Supply Chain with Circular Economy
+* Decision Support System for Robotic Arm Welding Sequences using Deep Reinforcement Learning
+* Demand-Driven Last Mile Delivery Route Optimization with Collection of Reusable Delivery Bags
+* E-commerce Supply Chain Network Design with Flexible Leasing Sizes of Fulfillment Centers
+* Multi-period Inventory Model with Smart Matching System
+
+## Patents
+* [출원] SPOT 용접점의 최적 경로 생성 방법 및 시스템 (2024), 10-2024-0048966
+신영철, 박상철, 윤상준, 조성호, 박재형
