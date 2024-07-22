@@ -47,6 +47,8 @@ author_profile: true
 * Demand-Driven Last Mile Delivery Route Optimization with Collection of Reusable Delivery Bags
 * E-commerce Supply Chain Network Design with Flexible Leasing Sizes of Fulfillment Centers
 * Multi-period Inventory Model with Smart Matching System
+* Approximate Dynamic Programming Approach for Empty Container Repositioning Considering Carbon Emissions and Demand Uncertainty  
+
 
 ## Patents
 * [출원] SPOT 용접점의 최적 경로 생성 방법 및 시스템 (2024), 10-2024-0048966
