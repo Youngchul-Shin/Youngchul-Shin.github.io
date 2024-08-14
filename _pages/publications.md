@@ -40,9 +40,9 @@ author_profile: true
 * An Efficient Algorithm for Void Fills Insertion in E-commerce Parcel Boxes: A Smart Packaging System
 * Reliable mobile multi-agent monitoring problem under failure
 * Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
+* Robust Closed-loop Supply Chain Model with Return Management System for Circular Economy
 
 ## Working Papers
-* Return Management System for Multi-tier Closed-loop Supply Chain with Circular Economy
 * Decision Support System for Robotic Arm Welding Sequences using Deep Reinforcement Learning
 * Demand-Driven Last Mile Delivery Route Optimization with Collection of Reusable Delivery Bags
 * E-commerce Supply Chain Network Design with Flexible Leasing Sizes of Fulfillment Centers
