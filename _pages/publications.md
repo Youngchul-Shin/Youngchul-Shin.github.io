@@ -31,21 +31,21 @@ author_profile: true
 <br>S. Kim, **Y. Shin**, G. Lee, and I.K. Moon*. (2018) [_Engineering Optimization_](https://www.tandfonline.com/journals/geno20), 50(7), 1198 - 1211.
 
 ## Submitted Papers
-* Flexible Material Handling System for Multi-Load Autonomous Mobile Robots in Manufacturing Environments: A Deep Reinforcement Learning Approach
+* Two-stage Robust Optimization Approach for Integrated Supply Chain with Hybrid-dark Stores
+* Flexible Material Handling System for Multi-Load Autonomous Mobile Robots in Manufacturing Environments: A Hierarchical Reinforcement Learning Approach
 * An Efficient Algorithm for Skyport Location Problem with Choice-based Demand Model
 * Uncertain demurrage and detention decisions in hinterland container management
 * New Mathematical Formulation for Idle OHT Vehicle Repositioning: Maximization of Repositioning Success Probability
 * Determination of Optimal Welding Sequence with Multiple Robotic Arms: A Robust Optimization Approach
-* Two-stage Robust Optimization Approach for Integrated Supply Chain with Hybrid-dark Stores
 * An Efficient Algorithm for Void Fills Insertion in E-commerce Parcel Boxes: A Smart Packaging System
 * Reliable mobile multi-agent monitoring problem under failure
-* Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
 * Robust Closed-loop Supply Chain Model with Return Management System for Circular Economy
 
 ## Working Papers
 * Decision Support System for Robotic Arm Welding Sequences using Deep Reinforcement Learning
 * Demand-Driven Last Mile Delivery Route Optimization with Collection of Reusable Delivery Bags
 * E-commerce Supply Chain Network Design with Flexible Leasing Sizes of Fulfillment Centers
+* Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
 * Multi-period Inventory Model with Smart Matching System
 * Approximate Dynamic Programming Approach for Empty Container Repositioning Considering Carbon Emissions and Demand Uncertainty  
 
