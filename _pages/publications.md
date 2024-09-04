@@ -7,10 +7,10 @@ author_profile: true
 
 ## Journal Publications - SCI(E)
 
-* A Hybrid Deep Reinforcement Learning Approach for a Proactive Transshipment of Fresh Foods in the Online-offline Channel System
-	* J. Lee, **Y. Shin**, and I.K. Moon*. (2024) [_Transportation Research Part E: Logistics and Transportation Review_](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review), 187, 103576
-* Multiple-objective Scheduling for Batch Process Systems Using Stochastic Utility Evaluation
-	* H. Park, **Y. Shin**, and I.K. Moon*. (2024) [_International Journal of Industrial Engineering: Theory, Applications and Practice_](https://journals.sfu.ca/ijietap/index.php/ijie/), 31(2), 413-428.
+* A Hybrid Deep Reinforcement Learning Approach for a Proactive Transshipment of Fresh Foods in the Online-offline Channel System, J. Lee, **Y. Shin**, and I.K. Moon*. (2024) 
+	* [_Transportation Research Part E: Logistics and Transportation Review_](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review), 187, 103576
+* Multiple-objective Scheduling for Batch Process Systems Using Stochastic Utility Evaluation, * H. Park, **Y. Shin**, and I.K. Moon*. (2024) 
+	* [_International Journal of Industrial Engineering: Theory, Applications and Practice_](https://journals.sfu.ca/ijietap/index.php/ijie/), 31(2), 413-428.
 * Distributionally Robust Multiperiod Inventory Model for Omni-channel Retailing Considering Buy-online, Pickup-in-store and Out-of-stock, Home-delivery Services
 	* **Y. Shin**, Y.B. Woo, and I.K. Moon*. (2024) [_IEEE Transactions on Engineering Management_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17), 71, 2606 - 2622.
 * Robust Building Evacuation Planning in a Dynamic Network Flow Model under Collapsible Nodes and Arcs
