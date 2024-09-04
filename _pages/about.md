@@ -62,7 +62,7 @@ redirect_from:
 
 ## Academic Services
 * Guest editor for Special Issue of _Annals of Operations Research_
-* Invited reviewer for _Computers & Operations Research, International Journal of Production Research, Transportation Research Part B: Methodological, European Journal of Operational Research, European Journal of Industrial Engineering, International Journal of Technology Marketing, Journal of the Korean Institute of Industrial Engineers, Industrial Engineering & Management Systems, Maritime Policy & Management_
+* Invited reviewer for _Computers & Operations Research, International Journal of Production Research, Transportation Research Part B: Methodological, European Journal of Operational Research, European Journal of Industrial Engineering, International Journal of Technology Marketing, Journal of the Korean Institute of Industrial Engineers, Industrial Engineering & Management Systems, Maritime Policy & Management, Transportation Research Part E: Logistics and Transportation Review, Socio-Economic Planning Sciences_
 
 ## Academic Activities
 * 대한산업공학회 IE매거진 편집위원
