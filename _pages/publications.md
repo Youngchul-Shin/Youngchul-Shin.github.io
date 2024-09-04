@@ -49,9 +49,12 @@ author_profile: true
 * Multi-period Inventory Model with Smart Matching System
 * Approximate Dynamic Programming Approach for Empty Container Repositioning Considering Carbon Emissions and Demand Uncertainty  
 
-
 ## Patents
 * [출원] 레이저 공정 분석 장치 및 방법 (2024), 10-2024-0112424
 **신영철**, 윤상준, 최재경
 * [출원] SPOT 용접점의 최적 경로 생성 방법 및 시스템 (2024), 10-2024-0048966
 **신영철**, 박상철, 윤상준, 조성호, 박재형
+
+## Books
+* [번역] Simchi-Levi 공급망 설계와 관리(4판)
+문일경, 김병수, **신영철**, 옥창수, 정태수
