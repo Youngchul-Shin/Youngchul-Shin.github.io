@@ -22,7 +22,7 @@ redirect_from:
 * Applications of OR / ML
   * Stochastic programming, Robust optimization, Distributionally robust optimization 
   * Approximate dynamic programming, Approximation algorithm
-  * Reinforcement learning, Machine learning, Deep learning
+  * Reinforcement learning, Deep learning
   * Discrete-event simulation
  
 * Smart Logistics
