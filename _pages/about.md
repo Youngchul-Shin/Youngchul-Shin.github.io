@@ -23,7 +23,7 @@ redirect_from:
   * Stochastic programming, Robust optimization, Distributionally robust optimization 
   * Approximate dynamic programming, Approximation algorithm
   * Reinforcement learning, Deep learning
-  * Discrete-event simulation
+  * Discrete-event simulation, Simulation optimization
  
 * Smart Logistics
   * Autonomous warehouse robots
@@ -56,13 +56,13 @@ redirect_from:
 * KSCM학회 추계학술대회 최우수논문상 (2016)
  
 ## Education
-* Ph. D. in Industrial Engineering, Seoul National University (2020)
+* Ph.D. in Industrial Engineering, Seoul National University (2020)
 * M.S. in Industrial Engineering, Seoul National University (2017)
 * B.S. in Industrial Engineering, Hanyang University (2015)
 
 ## Academic Services
 * Guest editor for Special Issue of _Annals of Operations Research_
-* Invited reviewer for _Computers & Operations Research, International Journal of Production Research, Transportation Research Part B: Methodological, European Journal of Operational Research, European Journal of Industrial Engineering, International Journal of Technology Marketing, Journal of the Korean Institute of Industrial Engineers, Industrial Engineering & Management Systems, Maritime Policy & Management, Transportation Research Part E: Logistics and Transportation Review, Socio-Economic Planning Sciences_
+* Invited reviewer for _Computers & Operations Research, International Journal of Production Research, Transportation Research Part B: Methodological, European Journal of Operational Research, European Journal of Industrial Engineering, International Journal of Technology Marketing, Journal of the Korean Institute of Industrial Engineers, Industrial Engineering & Management Systems, Maritime Policy & Management, Transportation Research Part E: Logistics and Transportation Review, Socio-Economic Planning Sciences, Annals of Operations Research_
 
 ## Academic Activities
 * 대한산업공학회 IE매거진 편집위원
