@@ -28,14 +28,13 @@ redirect_from:
 * Smart Logistics
   * Autonomous warehouse robots
   * Last-mile delivery route optimization
-  * Distribution network optimization
-  * Omnichannel (e-commerce) logistics
+  * Omnichannel (e-commerce) logistics, Distribution network
   * Transportation system planning
   * Maritime logistics
 
 * Smart Factory
   * Scheduling, Production planning and control, Product-mix optimization
-  * Automated material handling systems (OHT, AGV, mobile robot, ...)
+  * Automated material handling systems
   * Anomaly detection, Fault diagnosis
   * Capacity planning
 
