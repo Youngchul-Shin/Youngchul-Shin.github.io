@@ -34,7 +34,7 @@ redirect_from:
 
 * Smart Factory
   * Scheduling, Production planning and control, Product-mix optimization
-  * Automated material handling systems
+  * Automated material handling systems (OHT, AGV, mobile robot, ...)
   * Anomaly detection, Fault diagnosis
   * Capacity planning
 
@@ -52,10 +52,10 @@ redirect_from:
 * KSCM학회 추계학술대회 최우수논문상 (2016)
 
 ## Invited Talks
-* 2024. 09, Korea University
-* 2023. 11, HD Hyundai Heavy Industries
-* 2023. 10, BK Seminar, Pusan National University
-* 2022. 08, Young IE
+* Korea University (2024. 09)
+* HD Hyundai Heavy Industries (2023. 11)
+* BK Seminar, Pusan National University (2023. 10)
+* Young IE (2022. 08)
  
 ## Education
 * Ph.D. in Industrial Engineering, Seoul National University (2020)
