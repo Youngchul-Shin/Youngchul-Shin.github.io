@@ -34,26 +34,29 @@ redirect_from:
   * Maritime logistics
 
 * Smart Factory
-  * Scheduling, Production planning and control
-  * Product-mix optimization
+  * Scheduling, Production planning and control, Product-mix optimization
   * Automated material handling systems (OHT, AGV, mobile robot, ...)
   * Anomaly detection, Fault diagnosis
   * Capacity planning
 
 * Supply Chain Management
-  * Supply chain network design
-  * Supply chain planning under an uncertain environment
+  * Supply chain network design, Supply chain planning
   * Contract design for supply chain coordination
-  * Inventory management
+  * Inventory management, Demand forecasting
   * Closed-loop supply chain, Reverse logistics 
-  * Demand forecasting
-
+ 
 ## Awards
 * 아주대학교 연구우수교수 IF 부문 (2023)
 * 한국산업경영시스템학회 추계학술대회 우수연구상 (2023)
 * 아주대학교 교육우수교수 우수상 (2022)
 * KSCM학회 추계학술대회 최우수논문상 (2017)
 * KSCM학회 추계학술대회 최우수논문상 (2016)
+
+## Invited Talks
+* 2024. 09, Korea University
+* 2023. 11, HD Hyundai Heavy Industries
+* 2023. 10, BK Seminar, Pusan National University
+* 2022. 08, Young IE
  
 ## Education
 * Ph.D. in Industrial Engineering, Seoul National University (2020)
