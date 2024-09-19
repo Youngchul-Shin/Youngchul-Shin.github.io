@@ -27,9 +27,8 @@ redirect_from:
  
 * Smart Logistics
   * Autonomous warehouse robots
-  * Last-mile delivery route optimization
-  * Omnichannel (e-commerce) logistics, Distribution network
-  * Transportation system planning
+  * Last-mile delivery route optimization, Transportation system planning
+  * Omnichannel (e-commerce) logistics
   * Maritime logistics
 
 * Smart Factory
