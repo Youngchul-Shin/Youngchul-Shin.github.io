@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Publications - SCI(E)
+## Journal Publications - SCI(E) & SSCI
 
 * Resilient shuttle vehicle plan under route disruption scenarios and ticketing policies: a case study of the Qiandaohu archipelago scenic area, China
 <br>X. Feng, D. Li, **Y. Shin**, and Y. Zhou*. (2024) [_Current Issues in Tourism_](https://www.tandfonline.com/journals/rcit20), 1 - 20
