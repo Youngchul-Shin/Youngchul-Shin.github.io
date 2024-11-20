@@ -40,7 +40,7 @@ author_profile: true
 * New Mathematical Formulation for Idle OHT Vehicle Repositioning: Maximization of Repositioning Success Probability
 * Determination of Optimal Welding Sequence with Multiple Robotic Arms: A Robust Optimization Approach
 * An Efficient Algorithm for Void Fills Insertion in E-commerce Parcel Boxes: A Smart Packaging System
-* Reliable mobile multi-agent monitoring problem under failure
+* Scenario Decomposition Approach for Mobile Multi-Agent Monitoring under Failure
 * Robust Closed-loop Supply Chain Model with Return Management System for Circular Economy
 
 ## Working Papers
