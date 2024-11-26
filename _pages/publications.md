@@ -50,7 +50,7 @@ author_profile: true
 * Multi-period Inventory Model with Smart Matching System
 * Determination of Optimal Welding Sequence with Multiple Robotic Arms: A Robust Optimization Approach
 * Approximate Dynamic Programming Approach for Empty Container Repositioning Considering Carbon Emissions and Demand Uncertainty  
-* Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics Integration
+* Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
 
 ## Patents
 * 레이저 공정 분석 장치 및 방법 (2024), 출원: 10-2024-0112424 
