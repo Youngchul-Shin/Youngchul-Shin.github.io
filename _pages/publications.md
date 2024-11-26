@@ -38,17 +38,17 @@ author_profile: true
 * An Efficient Algorithm for Skyport Location Problem with Choice-based Demand Model
 * Uncertain demurrage and detention decisions in hinterland container management
 * New Mathematical Formulation for Idle OHT Vehicle Repositioning: Maximization of Repositioning Success Probability
-* Determination of Optimal Welding Sequence with Multiple Robotic Arms: A Robust Optimization Approach
 * An Efficient Algorithm for Void Fills Insertion in E-commerce Parcel Boxes: A Smart Packaging System
 * Scenario Decomposition Approach for Mobile Multi-Agent Monitoring under Failure
 * Robust Closed-loop Supply Chain Model with Return Management System for Circular Economy
+* Next-Day Demand based Last-Mile Delivery Route Optimization with Collection of Reusable Bags
 
 ## Working Papers
 * Decision Support System for Robotic Arm Welding Sequences using Deep Reinforcement Learning
-* Demand-Driven Last Mile Delivery Route Optimization with Collection of Reusable Delivery Bags
 * E-commerce Supply Chain Network Design with Flexible Leasing Sizes of Fulfillment Centers
 * Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
 * Multi-period Inventory Model with Smart Matching System
+* Determination of Optimal Welding Sequence with Multiple Robotic Arms: A Robust Optimization Approach
 * Approximate Dynamic Programming Approach for Empty Container Repositioning Considering Carbon Emissions and Demand Uncertainty  
 
 ## Patents
