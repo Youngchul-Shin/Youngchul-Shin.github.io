@@ -11,7 +11,7 @@ redirect_from:
 * Dept. of Industrial Engineering, Ajou Univ.
 * E-mail: youngchul@ajou.ac.kr
 * Phone: +82-31-219-2424
-* Lab: [SLSCM Lab](https://ycshin.oopy.io/)
+* Lab: [SLSCM Lab](https://ycshin.oopy.io/) (Smart Logistics & SCM Lab)
 
 ## Work Experience
 * Ajou University (2022 - Current)
