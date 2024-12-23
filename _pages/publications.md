@@ -42,6 +42,7 @@ author_profile: true
 * Scenario Decomposition Approach for Mobile Multi-Agent Monitoring under Failure
 * Robust Closed-loop Supply Chain Model with Return Management System for Circular Economy
 * Next-Day Demand based Last-Mile Delivery Route Optimization with Collection of Reusable Bags
+* Empty Container Repositioning Problem under Demand Uncertainty Considering Trade-off between Carbon Emissions and Transportation Speed: An Approximate Dynamic Programming Approach
 
 ## Working Papers
 * Decision Support System for Robotic Arm Welding Sequences using Deep Reinforcement Learning
@@ -49,7 +50,6 @@ author_profile: true
 * Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
 * Multi-period Inventory Model with Smart Matching System
 * Determination of Optimal Welding Sequence with Multiple Robotic Arms: A Robust Optimization Approach
-* Approximate Dynamic Programming Approach for Empty Container Repositioning Considering Carbon Emissions and Demand Uncertainty  
 * Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
 
 ## Patents
