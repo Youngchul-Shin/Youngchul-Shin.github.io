@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Publications - SCI(E) & SSCI
+## International Journal - SCI(E) & SSCI
 
 * Resilient shuttle vehicle plan under route disruption scenarios and ticketing policies: a case study of the Qiandaohu archipelago scenic area, China
 <br>X. Feng, D. Li, **Y. Shin**, and Y. Zhou*. (2024) [_Current Issues in Tourism_](https://www.tandfonline.com/journals/rcit20), 1 - 20
@@ -31,6 +31,11 @@ author_profile: true
 <br>S. Kim, **Y. Shin**, G. Lee, and I.K. Moon*. (2018) [_Applied Mathematical Modelling_](https://www.sciencedirect.com/journal/applied-mathematical-modelling), 64, 510 - 523.
 * Early stage response problem for post-disaster incidents
 <br>S. Kim, **Y. Shin**, G. Lee, and I.K. Moon*. (2018) [_Engineering Optimization_](https://www.tandfonline.com/journals/geno20), 50(7), 1198 - 1211.
+
+## Domestic Journal 
+
+* 물류 및 공급망관리 연구의 50년: 과거, 현재, 그리고 미래
+문일경, 김병수, 정병도 and **신영철**. (2024) 대한산업공학회지, 50(6), 347-362. 
 
 ## Submitted Papers
 * Two-stage Robust Optimization Approach for Integrated Supply Chain with Hybrid-dark Stores
