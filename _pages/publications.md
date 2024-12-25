@@ -35,7 +35,7 @@ author_profile: true
 ## Domestic Journal 
 
 * 물류 및 공급망관리 연구의 50년: 과거, 현재, 그리고 미래
-<br>문일경, 김병수, 정병도 and **신영철***. (2024) 대한산업공학회지, 50(6), 347-362. 
+<br>문일경, 김병수, 정병도, and **신영철***. (2024) 대한산업공학회지, 50(6), 347-362. 
 
 ## Submitted Papers
 * Two-stage Robust Optimization Approach for Integrated Supply Chain with Hybrid-dark Stores
