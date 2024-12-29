@@ -53,7 +53,7 @@ author_profile: true
 * Decision Support System for Robotic Arm Welding Sequences using Deep Reinforcement Learning
 * E-commerce Supply Chain Network Design with Flexible Leasing Sizes of Fulfillment Centers
 * Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
-* Multi-period Inventory Model with Smart Matching System
+* Robust Supply Chain Model with Smart Matching System
 * Determination of Optimal Welding Sequence with Multiple Robotic Arms: A Robust Optimization Approach
 * Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
 
