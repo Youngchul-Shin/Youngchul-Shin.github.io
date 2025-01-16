@@ -8,7 +8,7 @@ author_profile: true
 ## International Journal - SCI(E) & SSCI
 
 * Uncertain demurrage and detention decisions in hinterland container management
-<br>Y. Jeong, G. Kim, and **Y. Shin** (Accepted) [_International Transactions in Operational Research_](https://onlinelibrary.wiley.com/journal/14753995)
+<br>Y. Jeong, G. Kim, and **Y. Shin*** (Accepted) [_International Transactions in Operational Research_](https://onlinelibrary.wiley.com/journal/14753995)
 * Resilient shuttle vehicle plan under route disruption scenarios and ticketing policies: a case study of the Qiandaohu archipelago scenic area, China
 <br>X. Feng, D. Li, **Y. Shin**, and Y. Zhou*. (2024) [_Current Issues in Tourism_](https://www.tandfonline.com/journals/rcit20), 1 - 20
 * A hybrid deep reinforcement learning approach for a proactive transshipment of fresh food in the online–offline channel system
