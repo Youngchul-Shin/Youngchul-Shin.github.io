@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Journal - SCI(E) & SSCI
 * Flexible material handling system for multi-load autonomous mobile robots in manufacturing environments: a hierarchical reinforcement learning approach
-<br>G. Park, S. Jo, **Y. Shin** and I. Moon* (Accepted) [_International Journal of Production Research_](https://www.tandfonline.com/journals/tprs20)
+<br>G. Park, S. Jo, **Y. Shin** and I.K. Moon* (Accepted) [_International Journal of Production Research_](https://www.tandfonline.com/journals/tprs20)
 * Uncertain demurrage and detention decisions in hinterland container management
 <br>Y. Jeong, G. Kim, and **Y. Shin*** (Accepted) [_International Transactions in Operational Research_](https://onlinelibrary.wiley.com/journal/14753995)
 * Resilient shuttle vehicle plan under route disruption scenarios and ticketing policies: a case study of the Qiandaohu archipelago scenic area, China
