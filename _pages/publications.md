@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## International Journal - SCI(E) & SSCI
-
+* Flexible material handling system for multi-load autonomous mobile robots in manufacturing environments: a hierarchical reinforcement learning approach
+<br>G. Park, S. Jo, **Y. Shin** and I. Moon* (Accepted) [_International Journal of Production Research_](https://www.tandfonline.com/journals/tprs20)
 * Uncertain demurrage and detention decisions in hinterland container management
 <br>Y. Jeong, G. Kim, and **Y. Shin*** (Accepted) [_International Transactions in Operational Research_](https://onlinelibrary.wiley.com/journal/14753995)
 * Resilient shuttle vehicle plan under route disruption scenarios and ticketing policies: a case study of the Qiandaohu archipelago scenic area, China
@@ -35,13 +36,11 @@ author_profile: true
 <br>S. Kim, **Y. Shin**, G. Lee, and I.K. Moon*. (2018) [_Engineering Optimization_](https://www.tandfonline.com/journals/geno20), 50(7), 1198 - 1211.
 
 ## Domestic Journal 
-
 * 물류 및 공급망관리 연구의 50년: 과거, 현재, 그리고 미래
 <br>문일경, 김병수, 정병도, and **신영철***. (2024) 대한산업공학회지, 50(6), 347-362. 
 
 ## Submitted Papers
 * Two-stage Robust Optimization Approach for Integrated Supply Chain with Hybrid-dark Stores
-* Flexible Material Handling System for Multi-Load Autonomous Mobile Robots in Manufacturing Environments: A Hierarchical Reinforcement Learning Approach
 * An Efficient Algorithm for Skyport Location Problem with Choice-based Demand Model
 * New Mathematical Formulation for Idle OHT Vehicle Repositioning: Maximization of Repositioning Success Probability
 * An Efficient Algorithm for Void Fills Insertion in E-commerce Parcel Boxes: A Smart Packaging System
