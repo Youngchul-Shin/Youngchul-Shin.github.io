@@ -69,4 +69,5 @@ redirect_from:
 
 ## Academic Activities
 * 대한산업공학회 IE매거진 편집위원
+* 대한산업공학회 학술본부 이사
 * KSCM학회 학술 운영이사
