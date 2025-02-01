@@ -68,6 +68,6 @@ redirect_from:
 * Invited reviewer for _Computers & Operations Research, International Journal of Production Research, Transportation Research Part B: Methodological, European Journal of Operational Research, European Journal of Industrial Engineering, International Journal of Technology Marketing, Journal of the Korean Institute of Industrial Engineers, Industrial Engineering & Management Systems, Maritime Policy & Management, Transportation Research Part E: Logistics and Transportation Review, Transportation Research Part D: Transport and Environment, Socio-Economic Planning Sciences, Annals of Operations Research, Transportation Research Record_
 
 ## Academic Activities
-* 대한산업공학회 IE매거진 편집위원
-* 대한산업공학회 학술본부 이사
-* KSCM학회 학술 운영이사
+* 대한산업공학회 IE매거진 편집위원 (2023 - Current)
+* 대한산업공학회 학술본부 이사 (2025 - Current)
+* KSCM학회 학술 운영이사 (2024 - Current)
