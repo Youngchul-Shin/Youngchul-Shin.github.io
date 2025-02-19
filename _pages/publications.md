@@ -6,10 +6,12 @@ author_profile: true
 ---
 
 ## International Journal - SCI(E) & SSCI
+* Robust closed-loop supply chain model with return management system for circular economy
+<br>**Y. Shin**, G. Kim, and Y. Jeong*. (Accepted) [_Computers & Industrial Engineering_](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)
 * Flexible material handling system for multi-load autonomous mobile robots in manufacturing environments: a hierarchical reinforcement learning approach
-<br>G. Park, S. Jo, **Y. Shin** and I.K. Moon* (2025) [_International Journal of Production Research_](https://www.tandfonline.com/journals/tprs20), 1 - 21
+<br>G. Park, S. Jo, **Y. Shin**, and I.K. Moon*. (2025) [_International Journal of Production Research_](https://www.tandfonline.com/journals/tprs20), 1 - 21
 * Uncertain demurrage and detention decisions in hinterland container management
-<br>Y. Jeong, G. Kim, and **Y. Shin*** (2025) [_International Transactions in Operational Research_](https://onlinelibrary.wiley.com/journal/14753995), 1 - 32
+<br>Y. Jeong, G. Kim, and **Y. Shin***. (2025) [_International Transactions in Operational Research_](https://onlinelibrary.wiley.com/journal/14753995), 1 - 32
 * Resilient shuttle vehicle plan under route disruption scenarios and ticketing policies: a case study of the Qiandaohu archipelago scenic area, China
 <br>X. Feng, D. Li, **Y. Shin**, and Y. Zhou*. (2024) [_Current Issues in Tourism_](https://www.tandfonline.com/journals/rcit20), 1 - 20
 * A hybrid deep reinforcement learning approach for a proactive transshipment of fresh food in the online–offline channel system
@@ -45,7 +47,6 @@ author_profile: true
 * New Mathematical Formulation for Idle OHT Vehicle Repositioning: Maximization of Repositioning Success Probability
 * An Efficient Algorithm for Void Fills Insertion in E-commerce Parcel Boxes: A Smart Packaging System
 * Scenario Decomposition Approach for Mobile Multi-Agent Monitoring under Failure
-* Robust Closed-loop Supply Chain Model with Return Management System for Circular Economy
 * Next-Day Demand based Last-Mile Delivery Route Optimization with Collection of Reusable Bags
 * Empty Container Repositioning Problem under Demand Uncertainty Considering Trade-off between Carbon Emissions and Transportation Speed: An Approximate Dynamic Programming Approach
 
