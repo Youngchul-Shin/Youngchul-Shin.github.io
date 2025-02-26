@@ -58,6 +58,7 @@ author_profile: true
 * Determination of Optimal Welding Sequence with Multiple Robotic Arms: A Robust Optimization Approach
 * Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
 * Alleviation of OHT Vehicle Congestion in Semiconductor FAB with Dynamic Link Weight Control: A Reinforcement Learning Approach
+* An Exact Solution Approach for Skyport Location and Route Planning of UAM Aircraft under Failure 
 
 ## Patents
 * 레이저 공정 분석 장치 및 방법 (2024), 출원: 10-2024-0112424 
