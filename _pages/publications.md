@@ -49,6 +49,7 @@ author_profile: true
 * Scenario Decomposition Approach for Mobile Multi-Agent Monitoring under Failure
 * Next-Day Demand based Last-Mile Delivery Route Optimization with Collection of Reusable Bags
 * Empty Container Repositioning Problem under Demand Uncertainty Considering Trade-off between Carbon Emissions and Transportation Speed: An Approximate Dynamic Programming Approach
+* Column-and-constraint Generation Algorithm for Skyport Location and Route Planning of UAM Aircraft under Failure
 
 ## Working Papers
 * Decision Support System for Robotic Arm Welding Sequences using Deep Reinforcement Learning
@@ -58,7 +59,6 @@ author_profile: true
 * Determination of Optimal Welding Sequence with Multiple Robotic Arms: A Robust Optimization Approach
 * Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
 * Alleviation of OHT Vehicle Congestion in Semiconductor FAB with Dynamic Link Weight Control: A Reinforcement Learning Approach
-* An Exact Solution Approach for Skyport Location and Route Planning of UAM Aircraft under Failure 
 
 ## Patents
 * 레이저 공정 분석 장치 및 방법 (2024), 출원: 10-2024-0112424 
