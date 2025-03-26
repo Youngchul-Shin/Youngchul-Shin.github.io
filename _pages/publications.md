@@ -50,6 +50,7 @@ author_profile: true
 * Next-Day Demand based Last-Mile Delivery Route Optimization with Collection of Reusable Bags
 * Empty Container Repositioning Problem under Demand Uncertainty Considering Trade-off between Carbon Emissions and Transportation Speed: An Approximate Dynamic Programming Approach
 * Column-and-constraint Generation Algorithm for Skyport Location and Route Planning of UAM Aircraft under Failure
+* Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
 
 ## Working Papers
 * Decision Support System for Robotic Arm Welding Sequences using Deep Reinforcement Learning
@@ -57,7 +58,6 @@ author_profile: true
 * Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
 * Robust Supply Chain Model with Smart Matching System
 * Determination of Optimal Welding Sequence with Multiple Robotic Arms: A Robust Optimization Approach
-* Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
 * Alleviation of OHT Vehicle Congestion in Semiconductor FAB with Dynamic Link Weight Control: A Reinforcement Learning Approach
 
 ## Patents
