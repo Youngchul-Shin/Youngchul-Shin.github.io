@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## International Journal - SCI(E) & SSCI
+* New Mathematical Formulation for Idle OHT Vehicle Repositioning: Maximization of Repositioning Success Probability
+<br>**Y. Shin**, Y. Jeong, and G. Kim*. (2025) [_Engineering Optimization_](https://www.tandfonline.com/journals/geno20)
 * Robust closed-loop supply chain model with return management system for circular economy
 <br>**Y. Shin**, G. Kim, and Y. Jeong*. (2025) [_Computers & Industrial Engineering_](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)
 * Flexible material handling system for multi-load autonomous mobile robots in manufacturing environments: a hierarchical reinforcement learning approach
@@ -44,7 +46,6 @@ author_profile: true
 ## Submitted Papers
 * Two-stage Robust Optimization Approach for Integrated Supply Chain with Hybrid-dark Stores
 * An Efficient Algorithm for Skyport Location Problem with Choice-based Demand Model
-* New Mathematical Formulation for Idle OHT Vehicle Repositioning: Maximization of Repositioning Success Probability
 * An Efficient Algorithm for Void Fills Insertion in E-commerce Parcel Boxes: A Smart Packaging System
 * Scenario Decomposition Approach for Mobile Multi-Agent Monitoring under Failure
 * Next-Day Demand based Last-Mile Delivery Route Optimization with Collection of Reusable Bags
