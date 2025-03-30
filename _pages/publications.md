@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## International Journal - SCI(E) & SSCI
-* New Mathematical Formulation for Idle OHT Vehicle Repositioning: Maximization of Repositioning Success Probability
+* New mathematical formulation for idle OHT vehicle repositioning: maximization of repositioning success probability
 <br>**Y. Shin**, Y. Jeong, and G. Kim*. (2025) [_Engineering Optimization_](https://www.tandfonline.com/journals/geno20)
 * Robust closed-loop supply chain model with return management system for circular economy
 <br>**Y. Shin**, G. Kim, and Y. Jeong*. (2025) [_Computers & Industrial Engineering_](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)
