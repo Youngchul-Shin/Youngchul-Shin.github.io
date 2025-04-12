@@ -52,14 +52,15 @@ author_profile: true
 * Empty Container Repositioning Problem under Demand Uncertainty Considering Trade-off between Carbon Emissions and Transportation Speed: An Approximate Dynamic Programming Approach
 * Column-and-constraint Generation Algorithm for Skyport Location and Route Planning of UAM Aircraft under Failure
 * Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
+* Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
 
 ## Working Papers
 * Decision Support System for Robotic Arm Welding Sequences using Deep Reinforcement Learning
 * E-commerce Supply Chain Network Design with Flexible Leasing Sizes of Fulfillment Centers
-* Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
 * Robust Supply Chain Model with Smart Matching System
 * Determination of Optimal Welding Sequence with Multiple Robotic Arms: A Robust Optimization Approach
 * Alleviation of OHT Vehicle Congestion in Semiconductor FAB with Dynamic Link Weight Control: A Reinforcement Learning Approach
+* Last-Mile Delivery Route Optimization through the Integration of Public Transportation and Drones
 
 ## Patents
 * 레이저 공정 분석 장치 및 방법 (2024), 출원: 10-2024-0112424 
