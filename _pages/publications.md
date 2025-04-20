@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## International Journal - SCI(E) & SSCI
+* An efficient algorithm for multi-modal skyport location problem with choice-based demand
+<br>G. Kim, Y. Jeong, and **Y. Shin***. (Accepted) [_Socio-Economic Planning Sciences_](https://www.sciencedirect.com/journal/socio-economic-planning-sciences)
 * New mathematical formulation for idle OHT vehicle repositioning: maximization of repositioning success probability
 <br>**Y. Shin**, Y. Jeong, and G. Kim*. (Accepted) [_Engineering Optimization_](https://www.tandfonline.com/journals/geno20)
 * Robust closed-loop supply chain model with return management system for circular economy
@@ -45,7 +47,6 @@ author_profile: true
 
 ## Submitted Papers
 * Two-stage Robust Optimization Approach for Integrated Supply Chain with Hybrid-dark Stores
-* An Efficient Algorithm for Skyport Location Problem with Choice-based Demand Model
 * An Efficient Algorithm for Void Fills Insertion in E-commerce Parcel Boxes: A Smart Packaging System
 * Scenario Decomposition Approach for Mobile Multi-Agent Monitoring under Failure
 * Next-Day Demand based Last-Mile Delivery Route Optimization with Collection of Reusable Bags
