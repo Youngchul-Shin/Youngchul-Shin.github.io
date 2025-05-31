@@ -53,7 +53,8 @@ redirect_from:
 * KSCM학회 추계학술대회 최우수논문상 (2016)
 
 ## Invited Talks
-* Korea University (2024. 09)
+* Gyeongsang National University (2024.11)
+* BK Seminar, Korea University (2024. 09)
 * HD Hyundai Heavy Industries (2023. 11)
 * BK Seminar, Pusan National University (2023. 10)
 * Young IE (2022. 08)
