@@ -46,6 +46,7 @@ redirect_from:
   * Closed-loop supply chain, Reverse logistics 
  
 ## Awards
+* 아주대학교 연구우수교수 IF 부문 (2024)
 * 아주대학교 연구우수교수 IF 부문 (2023)
 * 한국산업경영시스템학회 추계학술대회 우수연구상 (2023)
 * 아주대학교 교육우수교수 우수상 (2022)
