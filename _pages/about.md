@@ -37,7 +37,7 @@ redirect_from:
   * Scheduling, Production planning and control, Product-mix optimization
   * Automated material handling systems (OHT, AGV, mobile robot, ...)
   * Anomaly detection, Fault diagnosis
-  * Capacity planning
+  * Capacity planning, Layout planning
 
 * Supply Chain Management
   * Supply chain network design, Supply chain planning
