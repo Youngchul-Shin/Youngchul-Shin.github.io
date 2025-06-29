@@ -42,8 +42,10 @@ author_profile: true
 <br>S. Kim, **Y. Shin**, G. Lee, and I.K. Moon*. (2018) [_Engineering Optimization_](https://www.tandfonline.com/journals/geno20), 50(7), 1198 - 1211.
 
 ## Domestic Journal 
+* 건설현장 디지털전환을 위한 UGV 데이터 수집 경로 최적화
+<br>이석희，**신영철**，홍정화， 문성현*. (2025) 대한산업공학회지, 51(3), 242 - 251.
 * 물류 및 공급망관리 연구의 50년: 과거, 현재, 그리고 미래
-<br>문일경, 김병수, 정병도, and **신영철***. (2024) 대한산업공학회지, 50(6), 347-362. 
+<br>문일경, 김병수, 정병도, and **신영철***. (2024) 대한산업공학회지, 50(6), 347 - 362. 
 
 ## Submitted Papers
 * Two-stage Robust Optimization Approach for Integrated Supply Chain with Hybrid-dark Stores
