@@ -55,7 +55,7 @@ redirect_from:
 
 ## Invited Talks
 * SK hynix & AX (2025.07)
-* Gyeongsang National University (2025.07)
+* Institute for Advanced Engineering (2025.07)
 * Gyeongsang National University (2024.11)
 * BK Seminar, Korea University (2024. 09)
 * HD Hyundai Heavy Industries (2023. 11)
