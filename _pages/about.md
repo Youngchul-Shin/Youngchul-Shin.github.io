@@ -45,6 +45,15 @@ redirect_from:
   * Inventory management, Demand forecasting
   * Closed-loop supply chain, Reverse logistics 
  
+## Invited Talks
+* SK hynix & SK AX (2025.07)
+* Institute for Advanced Engineering (2025.07)
+* Gyeongsang National University (2024.11)
+* BK Seminar, Korea University (2024. 09)
+* HD Hyundai Heavy Industries (2023. 11)
+* BK Seminar, Pusan National University (2023. 10)
+* Young IE (2022. 08)
+
 ## Awards
 * 아주대학교 연구우수교수 IF 부문 (2025)
 * 아주대학교 연구우수교수 IF 부문 (2024)
@@ -52,15 +61,6 @@ redirect_from:
 * 아주대학교 교육우수교수 우수상 (2022)
 * KSCM학회 추계학술대회 최우수논문상 (2017)
 * KSCM학회 추계학술대회 최우수논문상 (2016)
-
-## Invited Talks
-* SK hynix & AX (2025.07)
-* Institute for Advanced Engineering (2025.07)
-* Gyeongsang National University (2024.11)
-* BK Seminar, Korea University (2024. 09)
-* HD Hyundai Heavy Industries (2023. 11)
-* BK Seminar, Pusan National University (2023. 10)
-* Young IE (2022. 08)
  
 ## Education
 * Ph.D. in Industrial Engineering, Seoul National University (2020)
