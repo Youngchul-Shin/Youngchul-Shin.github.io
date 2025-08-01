@@ -13,13 +13,13 @@ author_profile: true
 * Robust closed-loop supply chain model with return management system for circular economy
 <br>**Y. Shin**, G. Kim, and Y. Jeong*. (2025) [_Computers & Industrial Engineering_](https://www.sciencedirect.com/journal/computers-and-industrial-engineering), 203, 110993
 * Flexible material handling system for multi-load autonomous mobile robots in manufacturing environments: a hierarchical reinforcement learning approach
-<br>K. Park, S. Jo, **Y. Shin**, and I.K. Moon*. (2025) [_International Journal of Production Research_](https://www.tandfonline.com/journals/tprs20)
+<br>K. Park, S. Jo, **Y. Shin**, and I.K. Moon*. (2025) [_International Journal of Production Research_](https://www.tandfonline.com/journals/tprs20), 63(15), 5671-5691.
 * Uncertain demurrage and detention decisions in hinterland container management
 <br>Y. Jeong, G. Kim, and **Y. Shin***. (2025) [_International Transactions in Operational Research_](https://onlinelibrary.wiley.com/journal/14753995)
 * Resilient shuttle vehicle plan under route disruption scenarios and ticketing policies: a case study of the Qiandaohu archipelago scenic area, China
 <br>X. Feng, D. Li, **Y. Shin**, and Y. Zhou*. (2024) [_Current Issues in Tourism_](https://www.tandfonline.com/journals/rcit20)
 * A hybrid deep reinforcement learning approach for a proactive transshipment of fresh food in the online–offline channel system
-<br>J. Lee, **Y. Shin**, and I.K. Moon*. (2024) [_Transportation Research Part E: Logistics and Transportation Review_](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review), 187, 103576
+<br>J. Lee, **Y. Shin**, and I.K. Moon*. (2024) [_Transportation Research Part E: Logistics and Transportation Review_](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review), 187, 103576.
 * Multiple-objective scheduling for batch process systems using stochastic utility evaluation
 <br>H. Park, **Y. Shin**, and I.K. Moon*. (2024) [_International Journal of Industrial Engineering: Theory, Applications and Practice_](https://journals.sfu.ca/ijietap/index.php/ijie/), 31(2), 413-428.
 * Distributionally robust multiperiod inventory model for omnichannel retailing considering Buy-Online, Pickup-in-Store and Out-of-Stock, Home-Delivery services
