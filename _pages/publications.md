@@ -9,7 +9,7 @@ author_profile: true
 * An efficient algorithm for multi-modal skyport location problem with choice-based demand
 <br>G. Kim, Y. Jeong, and **Y. Shin***. (2025) [_Socio-Economic Planning Sciences_](https://www.sciencedirect.com/journal/socio-economic-planning-sciences), 100, 102227.
 * New mathematical formulation for idle OHT vehicle repositioning: maximization of repositioning success probability
-<br>**Y. Shin**, Y. Jeong, and G. Kim*. (Accepted) [_Engineering Optimization_](https://www.tandfonline.com/journals/geno20), 1 – 26.
+<br>**Y. Shin**, Y. Jeong, and G. Kim*. (2025) [_Engineering Optimization_](https://www.tandfonline.com/journals/geno20), 1 – 26.
 * Robust closed-loop supply chain model with return management system for circular economy
 <br>**Y. Shin**, G. Kim, and Y. Jeong*. (2025) [_Computers & Industrial Engineering_](https://www.sciencedirect.com/journal/computers-and-industrial-engineering), 203, 110993.
 * Flexible material handling system for multi-load autonomous mobile robots in manufacturing environments: a hierarchical reinforcement learning approach
