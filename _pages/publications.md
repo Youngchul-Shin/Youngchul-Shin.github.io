@@ -56,6 +56,7 @@ author_profile: true
 * Column-and-constraint Generation Algorithm for Skyport Location and Route Planning of UAM Aircraft under Failure
 * Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
 * Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
+* Risk-averse supplier selection and order allocation problems under supplier disruption in a dominant supplier market
 
 ## Working Papers
 * E-Commerce Supply Chain Planning with Flexible Leasing Sizes for Fulfillment Centers: Two-stage Stochastic Programming Approach
