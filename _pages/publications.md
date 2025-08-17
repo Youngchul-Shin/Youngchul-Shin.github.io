@@ -52,7 +52,7 @@ author_profile: true
 * An Efficient Algorithm for Void Fills Insertion in E-commerce Parcel Boxes: A Smart Packaging System
 * Scenario Decomposition Approach for Mobile Multi-Agent Monitoring under Failure
 * Next-Day Demand based Last-Mile Delivery Route Optimization with Collection of Reusable Bags
-* Empty Container Repositioning Problem under Demand Uncertainty Considering Trade-off between Carbon Emissions and Transportation Speed: An Approximate Dynamic Programming Approach
+* Empty Container Repositioning under Demand Uncertainty with Multiple Transportation Speed Options: An Approximate Dynamic Programming Approach
 * Column-and-constraint Generation Algorithm for Skyport Location and Route Planning of UAM Aircraft under Failure
 * Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
 * Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
