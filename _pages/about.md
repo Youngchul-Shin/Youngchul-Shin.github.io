@@ -68,6 +68,7 @@ redirect_from:
 * B.S. in Industrial Engineering, Hanyang University (2015)
 
 ## Academic Services
+* Editorial board member of _European Journal of Industrial Engineering_
 * Guest editor for Special Issue of _Annals of Operations Research_
 * Invited reviewer for _Computers & Operations Research, International Journal of Production Research, Transportation Research Part B: Methodological, European Journal of Operational Research, European Journal of Industrial Engineering, International Journal of Technology Marketing, Journal of the Korean Institute of Industrial Engineers, Industrial Engineering & Management Systems, Maritime Policy & Management, Transportation Research Part E: Logistics and Transportation Review, Transportation Research Part D: Transport and Environment, Socio-Economic Planning Sciences, Annals of Operations Research, Transportation Research Record_
 
