@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Journal - SCI(E) & SSCI
 * Next-day demand based last-mile delivery route optimization with collection of reusable bags
-<br>S. Yoon, G. Kim, and **Y. Shin**. (Accepted) [_Transportation Research Part E: Logistics and Transportation Review_](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review) 
+<br>S. Yoon, G. Kim, and **Y. Shin***. (Accepted) [_Transportation Research Part E: Logistics and Transportation Review_](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review) 
 * An efficient algorithm for multi-modal skyport location problem with choice-based demand
 <br>G. Kim, Y. Jeong, and **Y. Shin***. (2025) [_Socio-Economic Planning Sciences_](https://www.sciencedirect.com/journal/socio-economic-planning-sciences), 100, 102227.
 * New mathematical formulation for idle OHT vehicle repositioning: maximization of repositioning success probability
