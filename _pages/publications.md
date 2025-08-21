@@ -57,11 +57,11 @@ author_profile: true
 * Column-and-constraint Generation Algorithm for Skyport Location and Route Planning of UAM Aircraft under Failure
 * Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
 * Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
+* Alleviation of OHT Vehicle Congestion in Semiconductor FAB with Dynamic Link Weight Control: A Reinforcement Learning Approach
 * Risk-averse supplier selection and order allocation problems under supplier disruption in a dominant supplier market
 
 ## Working Papers
 * E-Commerce Supply Chain Planning with Flexible Leasing Sizes for Fulfillment Centers: Two-stage Stochastic Programming Approach
-* Alleviation of OHT Vehicle Congestion in Semiconductor FAB with Dynamic Link Weight Control: A Reinforcement Learning Approach
 * Last-Mile Delivery Route Optimization through the Integration of Public Transportation and Drones
 * Decision Support System for Robotic Arm Welding Sequences using Deep Reinforcement Learning
 * Robust Supply Chain Model with Smart Matching System
