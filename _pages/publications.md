@@ -58,6 +58,7 @@ author_profile: true
 * Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
 * Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
 * Alleviation of OHT Vehicle Congestion in Semiconductor FAB with Dynamic Link Weight Control: A Reinforcement Learning Approach
+* E-commerce Supply Chain Network with Flexible Leasing Capacity of Fulfillment Centers Using Robust Optimization
 * Risk-averse supplier selection and order allocation problems under supplier disruption in a dominant supplier market
 
 ## Working Papers
