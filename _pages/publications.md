@@ -62,7 +62,7 @@ author_profile: true
 * Risk-averse supplier selection and order allocation problems under supplier disruption in a dominant supplier market
 
 ## Working Papers
-* E-Commerce Supply Chain Planning with Flexible Leasing Sizes for Fulfillment Centers: Two-stage Stochastic Programming Approach
+* E-commerce Supply Chain Planning with Space-as-a-Service: Two-stage Stochastic Programming Approach
 * Last-Mile Delivery Route Optimization through the Integration of Public Transportation and Drones
 * Decision Support System for Robotic Arm Welding Sequences using Deep Reinforcement Learning
 * Robust Supply Chain Model with Smart Matching System
