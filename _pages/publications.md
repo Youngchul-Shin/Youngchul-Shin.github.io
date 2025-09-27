@@ -60,9 +60,9 @@ author_profile: true
 * Alleviation of OHT Vehicle Congestion in Semiconductor FAB with Dynamic Link Weight Control: A Reinforcement Learning Approach
 * E-commerce Supply Chain Network with Flexible Leasing Capacity of Fulfillment Centers Using Robust Optimization
 * Risk-averse supplier selection and order allocation problems under supplier disruption in a dominant supplier market
+* E-commerce Supply Chain Planning with Space-as-a-Service: Two-stage Stochastic Programming Approach
 
 ## Working Papers
-* E-commerce Supply Chain Planning with Space-as-a-Service: Two-stage Stochastic Programming Approach
 * Last-Mile Delivery Route Optimization through the Integration of Public Transportation and Drones
 * Decision Support System for Robotic Arm Welding Sequences using Deep Reinforcement Learning
 * Robust Supply Chain Model with Smart Matching System
