@@ -62,13 +62,6 @@ author_profile: true
 * Risk-averse supplier selection and order allocation problems under supplier disruption in a dominant supplier market
 * E-commerce Supply Chain Planning with Space-as-a-Service: Two-stage Stochastic Programming Approach
 
-## Working Papers
-* Last-Mile Delivery Route Optimization through the Integration of Public Transportation and Drones
-* Decision Support System for Robotic Arm Welding Sequences using Deep Reinforcement Learning
-* Robust Supply Chain Model with Smart Matching System
-* Determination of Optimal Welding Sequence with Multiple Robotic Arms: A Robust Optimization Approach
-* Empty container repositioning problem considering facility installation and utilization for foldable containers under uncertainty
-
 ## Patents
 * 레이저 공정 분석 장치 및 방법 (2024), 출원: 10-2024-0112424 
 <br> **신영철**, 윤상준, 최재경
