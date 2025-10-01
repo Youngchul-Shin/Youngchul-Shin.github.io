@@ -59,7 +59,7 @@ author_profile: true
 * Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
 * Alleviation of OHT Vehicle Congestion in Semiconductor FAB with Dynamic Link Weight Control: A Reinforcement Learning Approach
 * E-commerce Supply Chain Network with Flexible Leasing Capacity of Fulfillment Centers Using Robust Optimization
-* Risk-averse supplier selection and order allocation problems under supplier disruption in a dominant supplier market
+* Risk-averse Supplier Selection and Order Allocation Problems Under Supplier Disruption in a Dominant Supplier Market
 * E-commerce Supply Chain Planning with Space-as-a-Service: Two-stage Stochastic Programming Approach
 
 ## Patents
