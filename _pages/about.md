@@ -26,24 +26,7 @@ redirect_from:
   * Approximate dynamic programming, Approximation algorithm
   * Reinforcement learning, Deep learning
   * Discrete-event simulation, Simulation optimization
- 
-* Smart Logistics
-  * Autonomous warehouse robots
-  * Last-mile delivery route optimization, Transportation system planning
-  * Omnichannel (e-commerce) logistics
-  * Maritime logistics
-
-* Smart Factory
-  * Scheduling, Production planning and control, Product-mix optimization
-  * Automated material handling systems (OHT, AGV, mobile robot, ...)
-  * Anomaly detection, Fault diagnosis
-  * Capacity planning, Layout planning
-
-* Supply Chain Management
-  * Supply chain network design, Supply chain planning
-  * Contract design for supply chain coordination
-  * Inventory management, Demand forecasting
-  * Closed-loop supply chain, Reverse logistics 
+  * Smart logistics, Smart factory, Supply chain management, ...
  
 ## Invited Talks
 * SK hynix & SK AX (2025.07)
