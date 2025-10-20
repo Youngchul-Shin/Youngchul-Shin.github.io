@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## International Journal - SCI(E) & SSCI
+* Robust optimization approach to a proactive balancing strategy of idle OHT vehicles
+<br>H. Kim, Y. Kang, and **Y. Shin***. (Accepted) [_Engineering Optimization_](https://www.tandfonline.com/journals/geno20)
 * Next-day demand based last-mile delivery route optimization with collection of reusable bags
 <br>S. Yoon, G. Kim, and **Y. Shin***. (2025) [_Transportation Research Part E: Logistics and Transportation Review_](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review), 203, 104387.
 * An efficient algorithm for multi-modal skyport location problem with choice-based demand
@@ -56,7 +58,6 @@ author_profile: true
 * Empty Container Repositioning under Demand Uncertainty with Multiple Transportation Speed Options: An Approximate Dynamic Programming Approach
 * Column-and-constraint Generation Algorithm for Skyport Location and Route Planning of UAM Aircraft under Failure
 * Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
-* Robust Optimization Approach to a Proactive Balancing Strategy of Idle OHT Vehicles
 * Alleviation of OHT Vehicle Congestion in Semiconductor FAB with Dynamic Link Weight Control: A Reinforcement Learning Approach
 * E-commerce Supply Chain Network with Flexible Leasing Capacity of Fulfillment Centers Using Robust Optimization
 * Risk-averse Supplier Selection and Order Allocation Problems Under Supplier Disruption in a Dominant Supplier Market
