@@ -29,7 +29,7 @@ redirect_from:
   * Smart logistics, Smart factory, Supply chain management, ...
  
 ## Invited Talks
-* Korea Electronics Technology Institute, HMGICS (2025.10)
+* Korea Electronics Technology Institute & HMGICS (2025.10)
 * SK hynix & SK AX (2025.07)
 * Institute for Advanced Engineering (2025.07)
 * Gyeongsang National University (2024.11)
