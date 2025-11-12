@@ -8,64 +8,158 @@ author_profile: true
 ## International Journal - SCI(E) & SSCI
 
 <ol reversed start="19">
-  <li>Robust optimization approach to a proactive balancing strategy of idle OHT vehicles
-    <br>H. Kim, Y. Kang, and Y. Shin*. (Accepted) Engineering Optimization
+
+  <li>
+    Robust optimization approach to a proactive balancing strategy of idle OHT vehicles
+    <br>H. Kim, Y. Kang, and <b>Y. Shin</b>*. (Accepted)
+    <a href="https://www.tandfonline.com/journals/geno20">Engineering Optimization</a>
   </li>
-  <li>Next-day demand based last-mile delivery route optimization with collection of reusable bags
-    <br>S. Yoon, G. Kim, and Y. Shin*. (2025) Transportation Research Part E, 203, 104387.
+
+  <li>
+    Next-day demand based last-mile delivery route optimization with collection of reusable bags
+    <br>S. Yoon, G. Kim, and <b>Y. Shin</b>*. (2025)
+    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
+      Transportation Research Part E
+    </a>, 203, 104387.
   </li>
-  <li>An efficient algorithm for multi-modal skyport location problem with choice-based demand
-    <br>G. Kim, Y. Jeong, and Y. Shin*. (2025) Socio-Economic Planning Sciences, 100, 102227.
+
+  <li>
+    An efficient algorithm for multi-modal skyport location problem with choice-based demand
+    <br>G. Kim, Y. Jeong, and <b>Y. Shin</b>*. (2025)
+    <a href="https://www.sciencedirect.com/journal/socio-economic-planning-sciences">
+      Socio-Economic Planning Sciences
+    </a>, 100, 102227.
   </li>
-  <li>New mathematical formulation for idle OHT vehicle repositioning: maximization of repositioning success probability
-    <br>Y. Shin, Y. Jeong, and G. Kim*. (2025) Engineering Optimization, 1–26.
+
+  <li>
+    New mathematical formulation for idle OHT vehicle repositioning: maximization of repositioning success probability
+    <br><b>Y. Shin</b>, Y. Jeong, and G. Kim*. (2025)
+    <a href="https://www.tandfonline.com/journals/geno20">Engineering Optimization</a>, 1–26.
   </li>
-  <li>Robust closed-loop supply chain model with return management system for circular economy
-    <br>Y. Shin, G. Kim, and Y. Jeong*. (2025) Computers & Industrial Engineering, 203, 110993.
+
+  <li>
+    Robust closed-loop supply chain model with return management system for circular economy
+    <br><b>Y. Shin</b>, G. Kim, and Y. Jeong*. (2025)
+    <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering">
+      Computers & Industrial Engineering
+    </a>, 203, 110993.
   </li>
-  <li>Flexible material handling system for multi-load autonomous mobile robots in manufacturing environments: a hierarchical reinforcement learning approach
-    <br>K. Park, S. Jo, Y. Shin, and I.K. Moon*. (2025) International Journal of Production Research, 63(15), 5671–5691.
+
+  <li>
+    Flexible material handling system for multi-load autonomous mobile robots in manufacturing environments:
+    a hierarchical reinforcement learning approach
+    <br>K. Park, S. Jo, <b>Y. Shin</b>, and I.K. Moon*. (2025)
+    <a href="https://www.tandfonline.com/journals/tprs20">
+      International Journal of Production Research
+    </a>, 63(15), 5671–5691.
   </li>
-  <li>Uncertain demurrage and detention decisions in hinterland container management
-    <br>Y. Jeong, G. Kim, and Y. Shin*. (2025) International Transactions in Operational Research
+
+  <li>
+    Uncertain demurrage and detention decisions in hinterland container management
+    <br>Y. Jeong, G. Kim, and <b>Y. Shin</b>*. (2025)
+    <a href="https://onlinelibrary.wiley.com/journal/14753995">
+      International Transactions in Operational Research
+    </a>
   </li>
-  <li>Resilient shuttle vehicle plan under route disruption scenarios and ticketing policies
-    <br>X. Feng, D. Li, Y. Shin, and Y. Zhou*. (2024) Current Issues in Tourism, 1–20.
+
+  <li>
+    Resilient shuttle vehicle plan under route disruption scenarios and ticketing policies
+    <br>X. Feng, D. Li, <b>Y. Shin</b>, and Y. Zhou*. (2024)
+    <a href="https://www.tandfonline.com/journals/rcit20">
+      Current Issues in Tourism
+    </a>, 1–20.
   </li>
-  <li>A hybrid deep reinforcement learning approach for proactive transshipment of fresh food
-    <br>J. Lee, Y. Shin, and I.K. Moon*. (2024) Transportation Research Part E, 187, 103576.
+
+  <li>
+    A hybrid deep reinforcement learning approach for proactive transshipment of fresh food
+    <br>J. Lee, <b>Y. Shin</b>, and I.K. Moon*. (2024)
+    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
+      Transportation Research Part E
+    </a>, 187, 103576.
   </li>
-  <li>Multiple-objective scheduling for batch process systems using stochastic utility evaluation
-    <br>H. Park, Y. Shin, and I.K. Moon*. (2024) IJIE TAP, 31(2), 413–428.
+
+  <li>
+    Multiple-objective scheduling for batch process systems using stochastic utility evaluation
+    <br>H. Park, <b>Y. Shin</b>, and I.K. Moon*. (2024)
+    <a href="https://journals.sfu.ca/ijietap/index.php/ijie/">
+      International Journal of Industrial Engineering
+    </a>, 31(2), 413–428.
   </li>
-  <li>Distributionally robust multiperiod inventory model for omnichannel retailing
-    <br>Y. Shin, Y.B. Woo, and I.K. Moon*. (2024) IEEE TEM, 71, 2606–2622.
+
+  <li>
+    Distributionally robust multiperiod inventory model for omnichannel retailing
+    <br><b>Y. Shin</b>, Y.B. Woo, and I.K. Moon*. (2024)
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17">
+      IEEE Transactions on Engineering Management
+    </a>, 71, 2606–2622.
   </li>
-  <li>Robust building evacuation planning in a dynamic network model
-    <br>Y. Shin and I.K. Moon*. (2023) Socio-Economic Planning Sciences, 86, 101455.
+
+  <li>
+    Robust building evacuation planning in a dynamic network model
+    <br><b>Y. Shin</b> and I.K. Moon*. (2023)
+    <a href="https://www.sciencedirect.com/journal/socio-economic-planning-sciences">
+      Socio-Economic Planning Sciences
+    </a>, 86, 101455.
   </li>
-  <li>Optimal start time of a markdown sale under a two-echelon inventory system
-    <br>Y. Shin, C. Ko, and I.K. Moon*. (2022) ITOR, 29(1), 600–623.
+
+  <li>
+    Optimal start time of a markdown sale under a two-echelon inventory system
+    <br><b>Y. Shin</b>, C. Ko, and I.K. Moon*. (2022)
+    <a href="https://onlinelibrary.wiley.com/journal/14753995">
+      International Transactions in Operational Research
+    </a>, 29(1), 600–623.
   </li>
-  <li>Robust multiperiod inventory model with a new type of buy one get one promotion
-    <br>Y. Shin, S. Lee, and I.K. Moon*. (2021) Omega, 99, 102170.
+
+  <li>
+    Robust multiperiod inventory model with a new type of buy one get one promotion
+    <br><b>Y. Shin</b>, S. Lee, and I.K. Moon*. (2021)
+    <a href="https://www.sciencedirect.com/journal/omega">
+      Omega
+    </a>, 99, 102170.
   </li>
-  <li>Robust multiperiod inventory model considering trade-in program and refurbishment service
-    <br>Y. Shin, S. Lee, and I.K. Moon*. (2020) Transportation Research Part E, 138, 101932.
+
+  <li>
+    Robust multiperiod inventory model considering trade-in program and refurbishment service
+    <br><b>Y. Shin</b>, S. Lee, and I.K. Moon*. (2020)
+    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
+      Transportation Research Part E
+    </a>, 138, 101932.
   </li>
-  <li>Simultaneous evacuation and entrance planning in complex building
-    <br>Y. Shin, S. Kim, and I.K. Moon*. (2019) Applied Mathematical Modelling, 73, 545–562.
+
+  <li>
+    Simultaneous evacuation and entrance planning in complex building
+    <br><b>Y. Shin</b>, S. Kim, and I.K. Moon*. (2019)
+    <a href="https://www.sciencedirect.com/journal/applied-mathematical-modelling">
+      Applied Mathematical Modelling
+    </a>, 73, 545–562.
   </li>
-  <li>Integrated optimal scheduling of repair crew and relief vehicle after disaster
-    <br>Y. Shin, S. Kim, and I.K. Moon*. (2019) Computers & Operations Research, 105, 237–247.
+
+  <li>
+    Integrated optimal scheduling of repair crew and relief vehicle after disaster
+    <br><b>Y. Shin</b>, S. Kim, and I.K. Moon*. (2019)
+    <a href="https://www.sciencedirect.com/journal/computers-and-operations-research">
+      Computers & Operations Research
+    </a>, 105, 237–247.
   </li>
-  <li>Network repair crew scheduling for short-term disasters
-    <br>S. Kim, Y. Shin, G. Lee, and I.K. Moon*. (2018) Applied Mathematical Modelling, 64, 510–523.
+
+  <li>
+    Network repair crew scheduling for short-term disasters
+    <br>S. Kim, <b>Y. Shin</b>, G. Lee, and I.K. Moon*. (2018)
+    <a href="https://www.sciencedirect.com/journal/applied-mathematical-modelling">
+      Applied Mathematical Modelling
+    </a>, 64, 510–523.
   </li>
-  <li>Early stage response problem for post-disaster incidents
-    <br>S. Kim, Y. Shin, G. Lee, and I.K. Moon*. (2018) Engineering Optimization, 50(7), 1198–1211.
+
+  <li>
+    Early stage response problem for post-disaster incidents
+    <br>S. Kim, <b>Y. Shin</b>, G. Lee, and I.K. Moon*. (2018)
+    <a href="https://www.tandfonline.com/journals/geno20">
+      Engineering Optimization
+    </a>, 50(7), 1198–1211.
   </li>
+
 </ol>
+
 
 ## Domestic Journal 
 * 건설현장 디지털전환을 위한 UGV 데이터 수집 경로 최적화
