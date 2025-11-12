@@ -9,7 +9,7 @@ author_profile: true
 
 19. Robust optimization approach to a proactive balancing strategy of idle OHT vehicles
 <br>H. Kim, Y. Kang, and **Y. Shin***. (Accepted) [_Engineering Optimization_](https://www.tandfonline.com/journals/geno20)
-18 Next-day demand based last-mile delivery route optimization with collection of reusable bags
+18. Next-day demand based last-mile delivery route optimization with collection of reusable bags
 <br>S. Yoon, G. Kim, and **Y. Shin***. (2025) [_Transportation Research Part E: Logistics and Transportation Review_](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review), 203, 104387.
 17. An efficient algorithm for multi-modal skyport location problem with choice-based demand
 <br>G. Kim, Y. Jeong, and **Y. Shin***. (2025) [_Socio-Economic Planning Sciences_](https://www.sciencedirect.com/journal/socio-economic-planning-sciences), 100, 102227.
