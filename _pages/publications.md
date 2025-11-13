@@ -31,7 +31,7 @@ author_profile: true
   <li>
     New mathematical formulation for idle OHT vehicle repositioning: maximization of repositioning success probability
     <br><b>Y. Shin</b>, Y. Jeong, and G. Kim*. (2025)
-    <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>, 1–26.
+    <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>, 1 - 26.
   </li>
 
   <li>
@@ -44,7 +44,7 @@ author_profile: true
     Flexible material handling system for multi-load autonomous mobile robots in manufacturing environments:
     a hierarchical reinforcement learning approach
     <br>K. Park, S. Jo, <b>Y. Shin</b>, and I.K. Moon*. (2025)
-    <a href="https://www.tandfonline.com/journals/tprs20"><i>International Journal of Production Research</i></a>, 63(15), 5671–5691.
+    <a href="https://www.tandfonline.com/journals/tprs20"><i>International Journal of Production Research</i></a>, 63(15), 5671 - 5691.
   </li>
 
   <li>
@@ -56,7 +56,7 @@ author_profile: true
   <li>
     Resilient shuttle vehicle plan under route disruption scenarios and ticketing policies
     <br>X. Feng, D. Li, <b>Y. Shin</b>, and Y. Zhou*. (2024)
-    <a href="https://www.tandfonline.com/journals/rcit20"><i>Current Issues in Tourism</i></a>, 1–20.
+    <a href="https://www.tandfonline.com/journals/rcit20"><i>Current Issues in Tourism</i></a>, 1 - 20.
   </li>
 
   <li>
@@ -69,13 +69,13 @@ author_profile: true
   <li>
     Multiple-objective scheduling for batch process systems using stochastic utility evaluation
     <br>H. Park, <b>Y. Shin</b>, and I.K. Moon*. (2024)
-    <a href="https://journals.sfu.ca/ijietap/index.php/ijie/"><i>International Journal of Industrial Engineering</i></a>, 31(2), 413–428.
+    <a href="https://journals.sfu.ca/ijietap/index.php/ijie/"><i>International Journal of Industrial Engineering</i></a>, 31(2), 413 - 428.
   </li>
 
   <li>
     Distributionally robust multiperiod inventory model for omnichannel retailing
     <br><b>Y. Shin</b>, Y.B. Woo, and I.K. Moon*. (2024)
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17"><i>IEEE Transactions on Engineering Management</i></a>, 71, 2606–2622.
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17"><i>IEEE Transactions on Engineering Management</i></a>, 71, 2606 - 2622.
   </li>
 
   <li>
@@ -87,7 +87,7 @@ author_profile: true
   <li>
     Optimal start time of a markdown sale under a two-echelon inventory system
     <br><b>Y. Shin</b>, C. Ko, and I.K. Moon*. (2022)
-    <a href="https://onlinelibrary.wiley.com/journal/14753995"><i>International Transactions in Operational Research</i></a>, 29(1), 600–623.
+    <a href="https://onlinelibrary.wiley.com/journal/14753995"><i>International Transactions in Operational Research</i></a>, 29(1), 600 - 623.
   </li>
 
   <li>
@@ -107,25 +107,25 @@ author_profile: true
   <li>
     Simultaneous evacuation and entrance planning in complex building
     <br><b>Y. Shin</b>, S. Kim, and I.K. Moon*. (2019)
-    <a href="https://www.sciencedirect.com/journal/applied-mathematical-modelling"><i>Applied Mathematical Modelling</i></a>, 73, 545–562.
+    <a href="https://www.sciencedirect.com/journal/applied-mathematical-modelling"><i>Applied Mathematical Modelling</i></a>, 73, 545 - 562.
   </li>
 
   <li>
     Integrated optimal scheduling of repair crew and relief vehicle after disaster
     <br><b>Y. Shin</b>, S. Kim, and I.K. Moon*. (2019)
-    <a href="https://www.sciencedirect.com/journal/computers-and-operations-research"><i>Computers & Operations Research</i></a>, 105, 237–247.
+    <a href="https://www.sciencedirect.com/journal/computers-and-operations-research"><i>Computers & Operations Research</i></a>, 105, 237 - 247.
   </li>
 
   <li>
     Network repair crew scheduling for short-term disasters
     <br>S. Kim, <b>Y. Shin</b>, G. Lee, and I.K. Moon*. (2018)
-    <a href="https://www.sciencedirect.com/journal/applied-mathematical-modelling"><i>Applied Mathematical Modelling</i></a>, 64, 510–523.
+    <a href="https://www.sciencedirect.com/journal/applied-mathematical-modelling"><i>Applied Mathematical Modelling</i></a>, 64, 510 - 523.
   </li>
 
   <li>
     Early stage response problem for post-disaster incidents
     <br>S. Kim, <b>Y. Shin</b>, G. Lee, and I.K. Moon*. (2018)
-    <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>, 50(7), 1198–1211.
+    <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>, 50(7), 1198 - 1211.
   </li>
 
 </ol>
@@ -135,12 +135,12 @@ author_profile: true
 
   <li>
     건설현장 디지털전환을 위한 UGV 데이터 수집 경로 최적화
-    <br>이석희, <b>신영철</b>, 홍정화, 문성현*. (2025) 대한산업공학회지, 51(3), 242–251.
+    <br>이석희, <b>신영철</b>, 홍정화, 문성현*. (2025) 대한산업공학회지, 51(3), 242 - 251.
   </li>
 
   <li>
     물류 및 공급망관리 연구의 50년: 과거, 현재, 그리고 미래
-    <br>문일경, 김병수, 정병도, and <b>신영철</b>*. (2024) 대한산업공학회지, 50(6), 347–362.
+    <br>문일경, 김병수, 정병도, and <b>신영철</b>*. (2024) 대한산업공학회지, 50(6), 347 - 362.
   </li>
 
 </ol>
