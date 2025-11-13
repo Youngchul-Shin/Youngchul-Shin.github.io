@@ -12,154 +12,119 @@ author_profile: true
   <li>
     Robust optimization approach to a proactive balancing strategy of idle OHT vehicles
     <br>H. Kim, Y. Kang, and <b>Y. Shin</b>*. (Accepted)
-    <a href="https://www.tandfonline.com/journals/geno20">Engineering Optimization</a>
+    <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>
   </li>
 
   <li>
     Next-day demand based last-mile delivery route optimization with collection of reusable bags
     <br>S. Yoon, G. Kim, and <b>Y. Shin</b>*. (2025)
-    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
-      Transportation Research Part E
-    </a>, 203, 104387.
+    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review"><i>Transportation Research Part E</i></a>, 203, 104387.
   </li>
 
   <li>
     An efficient algorithm for multi-modal skyport location problem with choice-based demand
     <br>G. Kim, Y. Jeong, and <b>Y. Shin</b>*. (2025)
-    <a href="https://www.sciencedirect.com/journal/socio-economic-planning-sciences">
-      Socio-Economic Planning Sciences
-    </a>, 100, 102227.
+    <a href="https://www.sciencedirect.com/journal/socio-economic-planning-sciences"><i>Socio-Economic Planning Sciences</i></a>, 100, 102227.
   </li>
 
   <li>
     New mathematical formulation for idle OHT vehicle repositioning: maximization of repositioning success probability
     <br><b>Y. Shin</b>, Y. Jeong, and G. Kim*. (2025)
-    <a href="https://www.tandfonline.com/journals/geno20">Engineering Optimization</a>, 1–26.
+    <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>, 1–26.
   </li>
 
   <li>
     Robust closed-loop supply chain model with return management system for circular economy
     <br><b>Y. Shin</b>, G. Kim, and Y. Jeong*. (2025)
-    <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering">
-      Computers & Industrial Engineering
-    </a>, 203, 110993.
+    <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>, 203, 110993.
   </li>
 
   <li>
     Flexible material handling system for multi-load autonomous mobile robots in manufacturing environments:
     a hierarchical reinforcement learning approach
     <br>K. Park, S. Jo, <b>Y. Shin</b>, and I.K. Moon*. (2025)
-    <a href="https://www.tandfonline.com/journals/tprs20">
-      International Journal of Production Research
-    </a>, 63(15), 5671–5691.
+    <a href="https://www.tandfonline.com/journals/tprs20"><i>International Journal of Production Research</i></a>, 63(15), 5671–5691.
   </li>
 
   <li>
     Uncertain demurrage and detention decisions in hinterland container management
     <br>Y. Jeong, G. Kim, and <b>Y. Shin</b>*. (2025)
-    <a href="https://onlinelibrary.wiley.com/journal/14753995">
-      International Transactions in Operational Research
-    </a>
+    <a href="https://onlinelibrary.wiley.com/journal/14753995"><i>International Transactions in Operational Research</i></a>
   </li>
 
   <li>
     Resilient shuttle vehicle plan under route disruption scenarios and ticketing policies
     <br>X. Feng, D. Li, <b>Y. Shin</b>, and Y. Zhou*. (2024)
-    <a href="https://www.tandfonline.com/journals/rcit20">
-      Current Issues in Tourism
-    </a>, 1–20.
+    <a href="https://www.tandfonline.com/journals/rcit20"><i>Current Issues in Tourism</i></a>, 1–20.
   </li>
 
   <li>
     A hybrid deep reinforcement learning approach for proactive transshipment of fresh food
     <br>J. Lee, <b>Y. Shin</b>, and I.K. Moon*. (2024)
-    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
-      Transportation Research Part E
-    </a>, 187, 103576.
+    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review"><i>Transportation Research Part E</i></a>, 187, 103576.
   </li>
 
   <li>
     Multiple-objective scheduling for batch process systems using stochastic utility evaluation
     <br>H. Park, <b>Y. Shin</b>, and I.K. Moon*. (2024)
-    <a href="https://journals.sfu.ca/ijietap/index.php/ijie/">
-      International Journal of Industrial Engineering
-    </a>, 31(2), 413–428.
+    <a href="https://journals.sfu.ca/ijietap/index.php/ijie/"><i>International Journal of Industrial Engineering</i></a>, 31(2), 413–428.
   </li>
 
   <li>
     Distributionally robust multiperiod inventory model for omnichannel retailing
     <br><b>Y. Shin</b>, Y.B. Woo, and I.K. Moon*. (2024)
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17">
-      IEEE Transactions on Engineering Management
-    </a>, 71, 2606–2622.
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17"><i>IEEE Transactions on Engineering Management</i></a>, 71, 2606–2622.
   </li>
 
   <li>
     Robust building evacuation planning in a dynamic network model
     <br><b>Y. Shin</b> and I.K. Moon*. (2023)
-    <a href="https://www.sciencedirect.com/journal/socio-economic-planning-sciences">
-      Socio-Economic Planning Sciences
-    </a>, 86, 101455.
+    <a href="https://www.sciencedirect.com/journal/socio-economic-planning-sciences"><i>Socio-Economic Planning Sciences</i></a>, 86, 101455.
   </li>
 
   <li>
     Optimal start time of a markdown sale under a two-echelon inventory system
     <br><b>Y. Shin</b>, C. Ko, and I.K. Moon*. (2022)
-    <a href="https://onlinelibrary.wiley.com/journal/14753995">
-      International Transactions in Operational Research
-    </a>, 29(1), 600–623.
+    <a href="https://onlinelibrary.wiley.com/journal/14753995"><i>International Transactions in Operational Research</i></a>, 29(1), 600–623.
   </li>
 
   <li>
     Robust multiperiod inventory model with a new type of buy one get one promotion
     <br><b>Y. Shin</b>, S. Lee, and I.K. Moon*. (2021)
-    <a href="https://www.sciencedirect.com/journal/omega">
-      Omega
-    </a>, 99, 102170.
+    <a href="https://www.sciencedirect.com/journal/omega"><i>Omega</i></a>, 99, 102170.
   </li>
 
   <li>
     Robust multiperiod inventory model considering trade-in program and refurbishment service
     <br><b>Y. Shin</b>, S. Lee, and I.K. Moon*. (2020)
-    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
-      Transportation Research Part E
-    </a>, 138, 101932.
+    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review"><i>Transportation Research Part E</i></a>, 138, 101932.
   </li>
 
   <li>
     Simultaneous evacuation and entrance planning in complex building
     <br><b>Y. Shin</b>, S. Kim, and I.K. Moon*. (2019)
-    <a href="https://www.sciencedirect.com/journal/applied-mathematical-modelling">
-      Applied Mathematical Modelling
-    </a>, 73, 545–562.
+    <a href="https://www.sciencedirect.com/journal/applied-mathematical-modelling"><i>Applied Mathematical Modelling</i></a>, 73, 545–562.
   </li>
 
   <li>
     Integrated optimal scheduling of repair crew and relief vehicle after disaster
     <br><b>Y. Shin</b>, S. Kim, and I.K. Moon*. (2019)
-    <a href="https://www.sciencedirect.com/journal/computers-and-operations-research">
-      Computers & Operations Research
-    </a>, 105, 237–247.
+    <a href="https://www.sciencedirect.com/journal/computers-and-operations-research"><i>Computers & Operations Research</i></a>, 105, 237–247.
   </li>
 
   <li>
     Network repair crew scheduling for short-term disasters
     <br>S. Kim, <b>Y. Shin</b>, G. Lee, and I.K. Moon*. (2018)
-    <a href="https://www.sciencedirect.com/journal/applied-mathematical-modelling">
-      Applied Mathematical Modelling
-    </a>, 64, 510–523.
+    <a href="https://www.sciencedirect.com/journal/applied-mathematical-modelling"><i>Applied Mathematical Modelling</i></a>, 64, 510–523.
   </li>
 
   <li>
     Early stage response problem for post-disaster incidents
     <br>S. Kim, <b>Y. Shin</b>, G. Lee, and I.K. Moon*. (2018)
-    <a href="https://www.tandfonline.com/journals/geno20">
-      Engineering Optimization
-    </a>, 50(7), 1198–1211.
+    <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>, 50(7), 1198–1211.
   </li>
 
 </ol>
-
 
 ## Domestic Journal 
 * 건설현장 디지털전환을 위한 UGV 데이터 수집 경로 최적화
