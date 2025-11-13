@@ -18,7 +18,9 @@ author_profile: true
   <li>
     Next-day demand based last-mile delivery route optimization with collection of reusable bags
     <br>S. Yoon, G. Kim, and <b>Y. Shin</b>*. (2025)
-    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review"><i>Transportation Research Part E</i></a>, 203, 104387.
+    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
+      <i>Transportation Research Part E: Logistics and Transportation Review</i>
+    </a>, 203, 104387.
   </li>
 
   <li>
@@ -61,7 +63,9 @@ author_profile: true
   <li>
     A hybrid deep reinforcement learning approach for proactive transshipment of fresh food
     <br>J. Lee, <b>Y. Shin</b>, and I.K. Moon*. (2024)
-    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review"><i>Transportation Research Part E</i></a>, 187, 103576.
+    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
+      <i>Transportation Research Part E: Logistics and Transportation Review</i>
+    </a>, 187, 103576.
   </li>
 
   <li>
@@ -97,7 +101,7 @@ author_profile: true
   <li>
     Robust multiperiod inventory model considering trade-in program and refurbishment service
     <br><b>Y. Shin</b>, S. Lee, and I.K. Moon*. (2020)
-    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review"><i>Transportation Research Part E</i></a>, 138, 101932.
+    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review"><i>Transportation Research Part E: Logistics and Transportation Review</i></a>, 138, 101932.
   </li>
 
   <li>
