@@ -101,7 +101,9 @@ author_profile: true
   <li>
     Robust multiperiod inventory model considering trade-in program and refurbishment service
     <br><b>Y. Shin</b>, S. Lee, and I.K. Moon*. (2020)
-    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review"><i>Transportation Research Part E: Logistics and Transportation Review</i></a>, 138, 101932.
+    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
+      <i>Transportation Research Part E: Logistics and Transportation Review</i>
+    </a>, 138, 101932.
   </li>
 
   <li>
