@@ -7,8 +7,14 @@ author_profile: true
 
 ## International Journal - SCI(E) & SSCI
 
-<ol reversed start="19">
+<ol reversed start="20">
 
+  <li> 
+    Two-stage robust optimization approach for integrated supply chain with hybrid-dark stores
+    <br><b>Y. Shin</b> and Y. Lee*. (Accepted)
+    <a href="https://www.sciencedirect.com/journal/omega"><i>Omega</i></a>
+  </li>
+  
   <li>
     Robust optimization approach to a proactive balancing strategy of idle OHT vehicles
     <br>H. Kim, Y. Kang, and <b>Y. Shin</b>*. (Accepted)
@@ -145,7 +151,6 @@ author_profile: true
 </ol>
 
 ## Submitted Papers
-* Two-stage Robust Optimization Approach for Integrated Supply Chain with Hybrid-dark Stores
 * An Efficient Algorithm for Void Fills Insertion in E-commerce Parcel Boxes: A Smart Packaging System
 * Scenario Decomposition Approach for Mobile Multi-Agent Monitoring under Failure
 * Empty Container Repositioning under Demand Uncertainty with Multiple Transportation Speed Options: An Approximate Dynamic Programming Approach
