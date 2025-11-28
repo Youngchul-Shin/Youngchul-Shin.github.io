@@ -163,6 +163,8 @@ author_profile: true
 * Last-Mile Delivery Route Optimization with the Integration of Public Transportation and Drones
 
 ## Patents
+* OHT 경로 제어 방법 및 장치 (2024), 출원: 10-2025-0164977
+<br> **신영철**, 오지웅, 최재경, 구본우
 * 레이저 공정 분석 장치 및 방법 (2024), 출원: 10-2024-0112424 
 <br> **신영철**, 윤상준, 최재경
 * SPOT 용접점의 최적 경로 생성 방법 및 시스템 (2024), 출원: 10-2024-0048966
