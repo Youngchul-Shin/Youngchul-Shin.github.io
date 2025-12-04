@@ -11,8 +11,8 @@ author_profile: true
 
   <li> 
     Two-stage robust optimization approach for integrated supply chain planning with hybrid-dark stores
-    <br><b>Y. Shin</b> and Y. Lee*. (Accepted)
-    <a href="https://www.sciencedirect.com/journal/omega"><i>Omega</i></a>
+    <br><b>Y. Shin</b> and Y. Lee*. (2026)
+    <a href="https://www.sciencedirect.com/journal/omega"><i>Omega</i></a>, 140, 103479.
   </li>
   
   <li>
