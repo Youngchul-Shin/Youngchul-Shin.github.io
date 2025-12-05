@@ -161,7 +161,7 @@ author_profile: true
 * Risk-averse Supplier Selection and Order Allocation Problems Under Supplier Disruption in a Dominant Supplier Market
 * E-commerce Supply Chain Planning with Space-as-a-Service: Two-stage Stochastic Programming Approach
 * Last-Mile Delivery Route Optimization with the Integration of Public Transportation and Drones
-* Empty container repositioning problem considering facility installation and utilization for foldable containers under uncertainty
+* Empty Container Repositioning Problem Considering Facility Installation and Utilization for Foldable Containers under Uncertainty
 
 ## Patents
 * OHT 경로 제어 방법 및 장치 (2024), 출원: 10-2025-0164977
