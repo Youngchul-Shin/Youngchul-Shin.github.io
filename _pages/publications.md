@@ -154,7 +154,7 @@ author_profile: true
 * An Efficient Algorithm for Void Fills Insertion in E-commerce Parcel Boxes: A Smart Packaging System
 * Scenario Decomposition Approach for Mobile Multi-Agent Monitoring under Failure
 * Empty Container Repositioning under Demand Uncertainty with Multiple Transportation Speed Options: An Approximate Dynamic Programming Approach
-* Column-and-constraint Generation Algorithm for Skyport Location and Route Planning of UAM Aircraft under Failure
+* Robust skyport location and network design for UAM systems under aircraft failures: A column-and-constraint generation approach
 * Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
 * Alleviation of OHT Vehicle Congestion in Semiconductor FAB with Dynamic Link Weight Control: A Reinforcement Learning Approach
 * E-commerce Supply Chain Network with Flexible Leasing Capacity of Fulfillment Centers Using Robust Optimization
