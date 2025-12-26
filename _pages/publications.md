@@ -154,7 +154,7 @@ author_profile: true
 * An Efficient Algorithm for Void Fills Insertion in E-commerce Parcel Boxes: A Smart Packaging System
 * Scenario Decomposition Approach for Mobile Multi-Agent Monitoring under Failure
 * Empty Container Repositioning under Demand Uncertainty with Multiple Transportation Speed Options: An Approximate Dynamic Programming Approach
-* Robust skyport location and network design for UAM systems under aircraft failures: A column-and-constraint generation approach
+* Robust Skyport Location and Network Design for UAM Systems under Aircraft Failures: A Column-and-constraint Generation Approach
 * Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
 * Alleviation of OHT Vehicle Congestion in Semiconductor FAB with Dynamic Link Weight Control: A Reinforcement Learning Approach
 * E-commerce Supply Chain Network with Flexible Leasing Capacity of Fulfillment Centers Using Robust Optimization
@@ -164,7 +164,7 @@ author_profile: true
 * Empty Container Repositioning Problem Considering Facility Installation and Utilization for Foldable Containers under Uncertainty
 
 ## Patents
-* OHT 경로 제어 방법 및 장치 (2024), 출원: 10-2025-0164977
+* OHT 경로 제어 방법 및 장치 (2025), 출원: 10-2025-0164977
 <br> **신영철**, 오지웅, 최재경, 구본우
 * 레이저 공정 분석 장치 및 방법 (2024), 출원: 10-2024-0112424 
 <br> **신영철**, 윤상준, 최재경
