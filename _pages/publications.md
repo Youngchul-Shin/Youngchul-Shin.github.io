@@ -17,7 +17,7 @@ author_profile: true
   
   <li>
     Robust optimization approach to a proactive balancing strategy of idle OHT vehicles
-    <br>H. Kim, Y. Kang, and <b>Y. Shin</b>*. (Accepted)
+    <br>H. Kim, Y. Kang, and <b>Y. Shin</b>*. (2026)
     <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>
   </li>
 
