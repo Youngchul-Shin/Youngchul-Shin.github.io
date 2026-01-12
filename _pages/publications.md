@@ -7,8 +7,14 @@ author_profile: true
 
 ## International Journal - SCI(E) & SSCI
 
-<ol reversed start="20">
+<ol reversed start="21">
 
+  <li>
+	Scenario decomposition approach for mobile multi-agent monitoring under failure
+    <br>G. Kim, Y. Jeong, and <b>Y. Shin</b>*. (Accepted)
+    <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>
+  </li>
+  
   <li> 
     Two-stage robust optimization approach for integrated supply chain planning with hybrid-dark stores
     <br><b>Y. Shin</b> and Y. Lee*. (2026)
@@ -152,7 +158,6 @@ author_profile: true
 
 ## Submitted Papers
 * An Efficient Algorithm for Void Fills Insertion in E-commerce Parcel Boxes: A Smart Packaging System
-* Scenario Decomposition Approach for Mobile Multi-Agent Monitoring under Failure
 * Empty Container Repositioning under Demand Uncertainty with Multiple Transportation Speed Options: An Approximate Dynamic Programming Approach
 * Robust Skyport Location and Network Design for UAM Systems under Aircraft Failures: A Column-and-constraint Generation Approach
 * Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
