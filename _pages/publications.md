@@ -165,8 +165,9 @@ author_profile: true
 * E-commerce Supply Chain Network with Flexible Leasing Capacity of Fulfillment Centers Using Robust Optimization
 * Risk-averse Supplier Selection and Order Allocation Problems Under Supplier Disruption in a Dominant Supplier Market
 * E-commerce Supply Chain Planning with Space-as-a-Service: Two-stage Stochastic Programming Approach
-* Last-Mile Delivery Route Optimization with the Integration of Public Transportation and Drones
 * Empty Container Repositioning Problem Considering Facility Installation and Utilization for Foldable Containers under Uncertainty
+* Last-Mile Delivery Route Optimization with Integration of Public Transportation and Drones
+
 
 ## Patents
 * OHT 경로 제어 방법 및 장치 (2025), 출원: 10-2025-0164977
