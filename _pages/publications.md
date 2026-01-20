@@ -11,7 +11,7 @@ author_profile: true
 
   <li>
 	Scenario decomposition approach for mobile multi-agent monitoring under failure
-    <br>G. Kim, <b>Y. Shin</b>, and Y. Jeong*. (Accepted)
+    <br>G. Kim, <b>Y. Shin</b>, and Y. Jeong*. (2026)
     <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>, 213, 111825.
   </li>
   
