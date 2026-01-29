@@ -7,8 +7,15 @@ author_profile: true
 
 ## International Journal - SCI(E) & SSCI
 
-<ol reversed start="21">
+<ol reversed start="22">
 
+  <li>
+    E-commerce supply chain network with flexible leasing capacity of fulfillment centers using robust optimization
+    <br>J. Lee and <b>Y. Shin</b>*. (Accepted)
+    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
+      <i>Transportation Research Part E: Logistics and Transportation Review</i></a>.
+  </li>
+  
   <li>
 	Scenario decomposition approach for mobile multi-agent monitoring under failure
     <br>G. Kim, <b>Y. Shin</b>, and Y. Jeong*. (2026)
@@ -162,7 +169,6 @@ author_profile: true
 * Robust Skyport Location and Network Design for UAM Systems under Aircraft Failures: A Column-and-constraint Generation Approach
 * Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
 * Alleviation of OHT Vehicle Congestion in Semiconductor FAB with Dynamic Link Weight Control: A Reinforcement Learning Approach
-* E-commerce Supply Chain Network with Flexible Leasing Capacity of Fulfillment Centers Using Robust Optimization
 * Risk-averse Supplier Selection and Order Allocation Problems Under Supplier Disruption in a Dominant Supplier Market
 * E-commerce Supply Chain Planning with Space-as-a-Service: Two-stage Stochastic Programming Approach
 * Empty Container Repositioning Problem Considering Facility Installation and Utilization for Foldable Containers under Uncertainty
