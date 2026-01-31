@@ -26,7 +26,8 @@ redirect_from:
   * Approximate dynamic programming, Approximation algorithm
   * Reinforcement learning, Deep learning
   * Discrete-event simulation, Simulation optimization
-  * Smart logistics, Smart factory, Supply chain management, Layout planning, Production planning and control, ...
+  * Smart logistics, Smart factory, Supply chain management
+  * Layout planning, Production planning and control, ...
  
 ## Invited Talks
 * Korea Electronics Technology Institute & HMGICS (2025.10)
