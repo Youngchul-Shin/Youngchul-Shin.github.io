@@ -7,8 +7,13 @@ author_profile: true
 
 ## International Journal - SCI(E) & SSCI
 
-<ol reversed start="22">
-
+<ol reversed start="23">
+  <li>
+    An effective algorithm for void fills insertion in e-commerce parcel boxes: a smart packaging system
+    <br>J. Choi and <b>Y. Shin</b>*. (Accepted)
+    <a href="https://link.springer.com/journal/10696">
+      <i>Flexible Services and Manufacturing Journal</i></a>.
+  </li>
   <li>
     E-commerce supply chain network with flexible leasing capacity of fulfillment centers using robust optimization
     <br>J. Lee and <b>Y. Shin</b>*. (Accepted)
@@ -164,7 +169,6 @@ author_profile: true
 </ol>
 
 ## Submitted Papers
-* An Efficient Algorithm for Void Fills Insertion in E-commerce Parcel Boxes: A Smart Packaging System
 * Empty Container Repositioning under Demand Uncertainty with Multiple Transportation Speed Options: An Approximate Dynamic Programming Approach
 * Robust Skyport Location and Network Design for UAM Systems under Aircraft Failures: A Column-and-constraint Generation Approach
 * Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
