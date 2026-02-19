@@ -173,6 +173,7 @@ author_profile: true
 * Empty Container Repositioning Problem Considering Facility Installation and Utilization for Foldable Containers under Uncertainty
 * Last-Mile Delivery Route Optimization with Integration of Public Transportation and Drones
 * Column-and-constraint Generation Approach for UAV-assisted Monitoring in Port Terminals under Obstacle Uncertainty
+* Closed-Loop Supply Chain Model with Third-Party Logistics–Based Return Management System: A Two-stage Stochastic Programming Approach
 
 ## Patents
 * OHT 경로 제어 방법 및 장치 (2025), 출원: 10-2025-0164977
