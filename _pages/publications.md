@@ -91,7 +91,7 @@ author_profile: true
   </li>
 
   <li>
-    Distributionally robust multiperiod inventory model for omnichannel retailing
+    Distributionally robust multiperiod inventory model for omnichannel retailing considering buy-online, pickup-in-store and out-of-stock, home-delivery services
     <br><b>Y. Shin</b>, Y.B. Woo, and I.K. Moon*. (2024)
     <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17"><i>IEEE Transactions on Engineering Management</i></a>, 71, 2606 - 2622.
   </li>
