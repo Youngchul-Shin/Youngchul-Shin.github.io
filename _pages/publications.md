@@ -10,9 +10,9 @@ author_profile: true
 <ol reversed start="22">
   <li>
     E-commerce supply chain network with flexible leasing capacity of fulfillment centers using robust optimization
-    <br>J. Lee and <b>Y. Shin</b>*. (Accepted)
+    <br>J. Lee and <b>Y. Shin</b>*. (2026)
     <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
-      <i>Transportation Research Part E: Logistics and Transportation Review</i></a>.
+      <i>Transportation Research Part E: Logistics and Transportation Review</i></a>, 210, 104727.
   </li>
   
   <li>
