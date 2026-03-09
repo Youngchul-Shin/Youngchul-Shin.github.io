@@ -174,6 +174,7 @@ author_profile: true
 * Last-Mile Delivery Route Optimization with Integration of Public Transportation and Drones
 * Column-and-constraint Generation Approach for UAV-assisted Monitoring in Port Terminals under Obstacle Uncertainty
 * Closed-Loop Supply Chain Model with Third-Party Logistics-Based Return Management System: A Two-stage Stochastic Programming Approach
+* Optimization of Sensor Locations on Construction Sites for Digital Twin-based Environmental Information Management
 
 ## Patents
 * OHT 경로 제어 방법 및 장치 (2025), 출원: 10-2025-0164977
