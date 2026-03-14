@@ -9,7 +9,7 @@ author_profile: true
 
 <ol reversed start="23"> 
   <li>
-    An effective algorithm for void fills insertion in e-commerce parcel boxes: a smart packaging system
+    An effective heuristic algorithm for void fills insertion in e-commerce parcel boxes: a smart packaging system
     <br>J. Choi and <b>Y. Shin</b>*. (Accepted)
     <a href="https://link.springer.com/journal/10696">
       <i>Flexible Services and Manufacturing Journal</i></a> 210, 104727.
