@@ -10,7 +10,7 @@ author_profile: true
 <ol reversed start="24"> 
   <li>
 	Last-mile delivery route optimization through collaborative underground logistics system
-    <br>D. Kim, Y. Yoong, and <b>Y. Shin</b>*. (Accepted)
+    <br>D. Kim, S. Yoon, and <b>Y. Shin</b>*. (Accepted)
     <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>
   </li>
   <li>
