@@ -7,7 +7,12 @@ author_profile: true
 
 ## International Journal - SCI(E) & SSCI
 
-<ol reversed start="23"> 
+<ol reversed start="24"> 
+  <li>
+	Last-mile delivery route optimization through collaborative underground logistics system
+    <br>D. Kim, Y. Yoong, and <b>Y. Shin</b>*. (Accepted)
+    <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>
+  </li>
   <li>
     An effective heuristic algorithm for void fills insertion in e-commerce parcel boxes: a smart packaging system
     <br>J. Choi and <b>Y. Shin</b>*. (Accepted)
@@ -171,7 +176,6 @@ author_profile: true
 ## Submitted Papers
 * Empty Container Repositioning under Demand Uncertainty with Multiple Transportation Speed Options: An Approximate Dynamic Programming Approach
 * Robust Skyport Location and Network Design for UAM Systems under Aircraft Failures: A Column-and-constraint Generation Approach
-* Last-Mile Delivery Route Optimization Through Collaborative Underground Logistics System
 * Alleviation of OHT Vehicle Congestion in Semiconductor FAB with Dynamic Link Weight Control: A Reinforcement Learning Approach
 * Risk-averse Supplier Selection and Order Allocation Problems Under Supplier Disruption in a Dominant Supplier Market
 * E-commerce Supply Chain Planning with Space-as-a-Service: Two-stage Stochastic Programming Approach
