@@ -7,7 +7,12 @@ author_profile: true
 
 ## International Journal - SCI(E) & SSCI
 
-<ol reversed start="24"> 
+<ol reversed start="25"> 
+  <li>
+	Alleviation of OHT vehicle congestion in semiconductor FAB with dynamic link weight control: a reinforcement learning approach
+    <br>B. Koo, Y. Kim, J. Choi, S. Jun*, and <b>Y. Shin</b>*. (Accepted)
+    <a href="https://www.tandfonline.com/journals/tprs20"><i>International Journal of Production Research</i></a>
+  </li>
   <li>
 	Last-mile delivery route optimization through collaborative underground logistics system
     <br>D. Kim, S. Yoon, and <b>Y. Shin</b>*. (Accepted)
@@ -176,7 +181,6 @@ author_profile: true
 ## Submitted Papers
 * Empty Container Repositioning under Demand Uncertainty with Multiple Transportation Speed Options: An Approximate Dynamic Programming Approach
 * Robust Skyport Location and Network Design for UAM Systems under Aircraft Failures: A Column-and-constraint Generation Approach
-* Alleviation of OHT Vehicle Congestion in Semiconductor FAB with Dynamic Link Weight Control: A Reinforcement Learning Approach
 * Risk-averse Supplier Selection and Order Allocation Problems Under Supplier Disruption in a Dominant Supplier Market
 * E-commerce Supply Chain Planning with Space-as-a-Service: Two-stage Stochastic Programming Approach
 * Empty Container Repositioning Problem Considering Facility Installation and Utilization for Foldable Containers under Uncertainty
