@@ -15,8 +15,8 @@ author_profile: true
   </li>
   <li>
 	Last-mile delivery route optimization through collaborative underground logistics system
-    <br>D. Kim, S. Yoon, and <b>Y. Shin</b>*. (Accepted)
-    <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>
+    <br>D. Kim, S. Yoon, and <b>Y. Shin</b>*. (2026)
+    <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>, 216, 111978
   </li>
   <li>
     An effective heuristic algorithm for void fills insertion in e-commerce parcel boxes: a smart packaging system
