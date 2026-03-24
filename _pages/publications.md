@@ -14,16 +14,16 @@ author_profile: true
     <a href="https://www.tandfonline.com/journals/tprs20"><i>International Journal of Production Research</i></a>
   </li>
   <li>
-	Last-mile delivery route optimization through collaborative underground logistics system
-    <br>D. Kim, S. Yoon, and <b>Y. Shin</b>*. (2026)
-    <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>, 216, 111978
-  </li>
-  <li>
     An effective heuristic algorithm for void fills insertion in e-commerce parcel boxes: a smart packaging system
     <br>J. Choi and <b>Y. Shin</b>*. (Accepted)
     <a href="https://link.springer.com/journal/10696">
       <i>Flexible Services and Manufacturing Journal</i></a>
-  </li>  
+  </li>  	
+  <li>
+	Last-mile delivery route optimization through collaborative underground logistics system
+    <br>D. Kim, S. Yoon, and <b>Y. Shin</b>*. (2026)
+    <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>, 216, 111978
+  </li>
   <li>
     E-commerce supply chain network with flexible leasing capacity of fulfillment centers using robust optimization
     <br>J. Lee and <b>Y. Shin</b>*. (2026)
