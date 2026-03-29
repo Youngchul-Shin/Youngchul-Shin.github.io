@@ -15,9 +15,9 @@ redirect_from:
 * 물류 설비 동적 배치 최적화 알고리즘 개발
   * LG CNS & AST (2026.02 - 2026.04)
 * 데이터 기반 공구 및 소모품 자동 발주 최적화를 위한 의사결정지원 시스템 개발
-  * 기아자동차 Data Inspiring Camp 자문 2기
+  * 기아자동차 Data Inspiring Camp 자문 2기 (2026.03 - 2026.07)
 * 데이터 기반 절삭유 상태 예측 및 교체 시기 최적화 의사결정지원 시스템 개발
-  * 기아자동차 Data Inspiring Camp 자문 2기
+  * 기아자동차 Data Inspiring Camp 자문 2기 (2026.03 - 2026.07)
         
 ## Completed Projects (아주대학교)
 * 순환 경제를 위한 다중-계층 폐쇄형 공급망 기반 스마트 반품 관리 시스템 개발
