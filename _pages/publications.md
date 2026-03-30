@@ -48,7 +48,13 @@ author_profile: true
     <br>H. Kim, Y. Kang, and <b>Y. Shin</b>*. (2026)
     <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>
   </li>
-
+  
+  <li>
+    New mathematical formulation for idle OHT vehicle repositioning: maximization of repositioning success probability
+    <br><b>Y. Shin</b>, Y. Jeong, and G. Kim*. (2026)
+    <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>, 58(4), 934 - 959.
+  </li>
+  
   <li>
     Next-day demand based last-mile delivery route optimization with collection of reusable bags
     <br>S. Yoon, G. Kim, and <b>Y. Shin</b>*. (2025)
@@ -60,12 +66,6 @@ author_profile: true
     An efficient algorithm for multi-modal skyport location problem with choice-based demand
     <br>G. Kim, Y. Jeong, and <b>Y. Shin</b>*. (2025)
     <a href="https://www.sciencedirect.com/journal/socio-economic-planning-sciences"><i>Socio-Economic Planning Sciences</i></a>, 100, 102227.
-  </li>
-
-  <li>
-    New mathematical formulation for idle OHT vehicle repositioning: maximization of repositioning success probability
-    <br><b>Y. Shin</b>, Y. Jeong, and G. Kim*. (2025)
-    <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>, 1 - 26.
   </li>
 
   <li>
