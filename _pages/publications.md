@@ -20,6 +20,12 @@ author_profile: true
       <i>Flexible Services and Manufacturing Journal</i></a>
   </li>  	
   <li>
+    Robust optimization approach to a proactive balancing strategy of idle OHT vehicles
+    <br>H. Kim, Y. Kang, and <b>Y. Shin</b>*. (Online published)
+    <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>
+  </li>
+  
+  <li>
 	Last-mile delivery route optimization through collaborative underground logistics system
     <br>D. Kim, S. Yoon, and <b>Y. Shin</b>*. (2026)
     <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>, 216, 111978
@@ -42,13 +48,7 @@ author_profile: true
     <br><b>Y. Shin</b> and Y. Lee*. (2026)
     <a href="https://www.sciencedirect.com/journal/omega"><i>Omega</i></a>, 140, 103479.
   </li>
-  
-  <li>
-    Robust optimization approach to a proactive balancing strategy of idle OHT vehicles
-    <br>H. Kim, Y. Kang, and <b>Y. Shin</b>*. (2026)
-    <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>
-  </li>
-  
+
   <li>
     New mathematical formulation for idle OHT vehicle repositioning: maximization of repositioning success probability
     <br><b>Y. Shin</b>, Y. Jeong, and G. Kim*. (2026)
