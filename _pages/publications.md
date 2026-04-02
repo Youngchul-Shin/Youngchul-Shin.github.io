@@ -56,6 +56,12 @@ author_profile: true
   </li>
   
   <li>
+    Uncertain demurrage and detention decisions in hinterland container management
+    <br>Y. Jeong, G. Kim, and <b>Y. Shin</b>*. (2026)
+    <a href="https://onlinelibrary.wiley.com/journal/14753995"><i>International Transactions in Operational Research</i></a>, 33, 3548 - 3579.
+  </li>
+  
+  <li>
     Next-day demand based last-mile delivery route optimization with collection of reusable bags
     <br>S. Yoon, G. Kim, and <b>Y. Shin</b>*. (2025)
     <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
@@ -79,12 +85,6 @@ author_profile: true
     a hierarchical reinforcement learning approach
     <br>K. Park, S. Jo, <b>Y. Shin</b>, and I.K. Moon*. (2025)
     <a href="https://www.tandfonline.com/journals/tprs20"><i>International Journal of Production Research</i></a>, 63(15), 5671 - 5691.
-  </li>
-
-  <li>
-    Uncertain demurrage and detention decisions in hinterland container management
-    <br>Y. Jeong, G. Kim, and <b>Y. Shin</b>*. (2025)
-    <a href="https://onlinelibrary.wiley.com/journal/14753995"><i>International Transactions in Operational Research</i></a>
   </li>
 
   <li>
