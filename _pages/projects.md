@@ -1,10 +1,11 @@
 ---
-permalink: /markdown/
+permalink: /projects/
 title: Projects
 author_profile: true
 redirect_from:
   - /md/
   - /markdown.html
+  - /markdown
 ---
 
 ## Ongoing Projects
