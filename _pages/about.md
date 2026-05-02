@@ -30,13 +30,14 @@ redirect_from:
   * Layout planning, Production planning and control, ...
  
 ## Invited Talks
+* SK이노베이션 E&S - 나래에너지서비스 (2026.04)
 * Korea Electronics Technology Institute & HMGICS (2025.10)
 * SK hynix & SK AX (2025.07)
 * Institute for Advanced Engineering (2025.07)
-* Gyeongsang National University (2024.11)
-* BK Seminar, Korea University (2024. 09)
+* 경상국립대학교 (2024.11)
+* BK Seminar, 고려대학교 (2024. 09)
 * HD Hyundai Heavy Industries (2023. 11)
-* BK Seminar, Pusan National University (2023. 10)
+* BK Seminar, 부산대학교 (2023. 10)
 * Young IE (2022. 08)
 
 ## Awards
