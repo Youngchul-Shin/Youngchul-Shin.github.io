@@ -9,6 +9,11 @@ author_profile: true
 
 <ol reversed start="25"> 
   <li>
+    Risk-averse supplier selection and order allocation problems under supplier disruption in a dominant supplier market
+    <br>S. Oh, <b>Y. Shin</b>, I. Moon*. (Accepted)
+    <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>
+  </li>  
+  <li>
 	Alleviation of OHT vehicle congestion in semiconductor FAB with dynamic link weight control: a reinforcement learning approach
     <br>B. Koo, Y. Kim, J. Choi, S. Jun*, and <b>Y. Shin</b>*. (Accepted)
     <a href="https://www.tandfonline.com/journals/tprs20"><i>International Journal of Production Research</i></a>
@@ -23,8 +28,7 @@ author_profile: true
     Robust optimization approach to a proactive balancing strategy of idle OHT vehicles
     <br>H. Kim, Y. Kang, and <b>Y. Shin</b>*. (Online published)
     <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>
-  </li>
-  
+  </li>  
   <li>
 	Last-mile delivery route optimization through collaborative underground logistics system
     <br>D. Kim, S. Yoon, and <b>Y. Shin</b>*. (2026)
@@ -181,7 +185,6 @@ author_profile: true
 ## Submitted Papers
 * Empty Container Repositioning under Demand Uncertainty with Multiple Transportation Speed Options: An Approximate Dynamic Programming Approach
 * Robust Skyport Location and Network Design for UAM Systems under Aircraft Failures: A Column-and-constraint Generation Approach
-* Risk-averse Supplier Selection and Order Allocation Problems Under Supplier Disruption in a Dominant Supplier Market
 * E-commerce Supply Chain Planning with Space-as-a-Service: Two-stage Stochastic Programming Approach
 * Empty Container Repositioning Problem Considering Facility Installation and Utilization for Foldable Containers under Uncertainty
 * Last-Mile Delivery Route Optimization with Integration of Public Transportation and Drones
