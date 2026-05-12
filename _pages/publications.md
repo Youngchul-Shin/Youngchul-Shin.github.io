@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Journal - SCI(E) & SSCI
 
-<ol reversed start="25"> 
+<ol reversed start="26"> 
   <li>
     Risk-averse supplier selection and order allocation problems under supplier disruption in a dominant supplier market
     <br>S. Oh, <b>Y. Shin</b>, I. Moon*. (Accepted)
