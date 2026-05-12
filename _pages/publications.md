@@ -10,7 +10,7 @@ author_profile: true
 <ol reversed start="26"> 
   <li>
     Risk-averse supplier selection and order allocation problems under supplier disruption in a dominant supplier market
-    <br>S. Oh, <b>Y. Shin</b>, I. Moon*. (Accepted)
+    <br>S. Oh, <b>Y. Shin</b>, and I.K. Moon*. (Accepted)
     <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>
   </li>  
   <li>
