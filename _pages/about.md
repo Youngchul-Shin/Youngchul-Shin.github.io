@@ -30,6 +30,7 @@ redirect_from:
   * Layout planning, Production planning and control, ...
  
 ## Invited Talks
+* 고려대학교 (2026.05)
 * 경상국립대학교 (2026.05)
 * SK이노베이션 E&S - 나래에너지서비스 (2026.04)
 * Korea Electronics Technology Institute & HMGICS (2025.10)
