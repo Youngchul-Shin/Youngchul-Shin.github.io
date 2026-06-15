@@ -193,10 +193,10 @@ author_profile: true
 
 ## Submitted Papers
 * Empty Container Repositioning under Demand Uncertainty with Multiple Transportation Speed Options: An Approximate Dynamic Programming Approach
+* Closed-Loop Supply Chain Model with Third-Party Logistics-Based Return Management System: A Two-stage Stochastic Programming Approach
 * Empty Container Repositioning Problem Considering Facility Installation and Utilization for Foldable Containers under Uncertainty
 * Last-Mile Delivery Route Optimization with Integration of Public Transportation and Drones
 * Column-and-constraint Generation Approach for UAV-assisted Monitoring in Port Terminals under Obstacle Uncertainty
-* Closed-Loop Supply Chain Model with Third-Party Logistics-Based Return Management System: A Two-stage Stochastic Programming Approach
 * Optimization of Sensor Locations on Construction Sites for Digital Twin-based Environmental Information Management
 * Coordination of Decentralized Semiconductor Manufacturing Systems via Key Performance Indicator Design
 * Cooperative Path Optimization of Hybrid Unmanned Mobile Robots for Efficient and Comprehensive Data Acquisition in Construction Sites
