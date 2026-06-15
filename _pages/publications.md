@@ -10,7 +10,7 @@ author_profile: true
 <ol reversed start="27"> 
   <li>
     E-commerce Supply Chain Planning with Space-as-a-Service: Two-stage Stochastic Programming Approach
-    <br>S. Na, S. Yoon, J. Lee*, and <b>Y. Shin*</b>. (Accepted)
+    <br>S. Na, S. Yoon, J. Lee*, and <b>Y. Shin*</b>
     <a href="https://www.sciencedirect.com/journal/socio-economic-planning-sciences"><i>Socio-Economic Planning Sciences</i></a>. (Accepted)
   </li>  
   <li>
