@@ -193,7 +193,6 @@ author_profile: true
 
 ## Submitted Papers
 * Empty Container Repositioning under Demand Uncertainty with Multiple Transportation Speed Options: An Approximate Dynamic Programming Approach
-* Robust Skyport Location and Network Design for UAM Systems under Aircraft Failures: A Column-and-constraint Generation Approach
 * Empty Container Repositioning Problem Considering Facility Installation and Utilization for Foldable Containers under Uncertainty
 * Last-Mile Delivery Route Optimization with Integration of Public Transportation and Drones
 * Column-and-constraint Generation Approach for UAV-assisted Monitoring in Port Terminals under Obstacle Uncertainty
