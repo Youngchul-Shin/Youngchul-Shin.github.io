@@ -7,7 +7,12 @@ author_profile: true
 
 ## International Journal - SCI(E) & SSCI
 
-<ol reversed start="27"> 
+<ol reversed start="28"> 
+  <li>
+    Robust skyport location and network design for UAM systems under aircraft failures: A column-and-constraint generation approach  
+    <br>G. Kim, Y. Jeong, and <b>Y. Shin*</b>. (Accepted)
+    <a href="https://www.sciencedirect.com/journal/transportation-research-part-b-methodological"><i>Transportation Research Part B: Methodological</i></a>
+  </li>  
   <li>
     E-commerce supply chain planning with Space-as-a-Service: two-stage stochastic programming approach
     <br>S. Na, S. Yoon, J. Lee*, and <b>Y. Shin*</b>. (Accepted)
