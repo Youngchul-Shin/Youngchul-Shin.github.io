@@ -7,7 +7,12 @@ author_profile: true
 
 ## International Journal - SCI(E) & SSCI
 
-<ol reversed start="26"> 
+<ol reversed start="27"> 
+  <li>
+    E-commerce Supply Chain Planning with Space-as-a-Service: Two-stage Stochastic Programming Approach
+    <br>S. Na, S. Yoon, J. Lee*, and <b>Y. Shin*</b>. (Accepted)
+    <a href="https://www.sciencedirect.com/journal/socio-economic-planning-sciences"><i>Socio-Economic Planning Sciences</i></a>. (Accepted)
+  </li>  
   <li>
     Risk-averse supplier selection and order allocation problems under supplier disruption in a dominant supplier market
     <br>S. Oh, <b>Y. Shin</b>, and I.K. Moon*. (Accepted)
@@ -21,8 +26,7 @@ author_profile: true
   <li>
     An effective heuristic algorithm for void fills insertion in e-commerce parcel boxes: a smart packaging system
     <br>J. Choi and <b>Y. Shin</b>*. (Online published)
-    <a href="https://link.springer.com/journal/10696">
-      <i>Flexible Services and Manufacturing Journal</i></a>
+    <a href="https://link.springer.com/journal/10696"><i>Flexible Services and Manufacturing Journal</i></a>
   </li>  	
   <li>
     Robust optimization approach to a proactive balancing strategy of idle OHT vehicles
@@ -185,7 +189,6 @@ author_profile: true
 ## Submitted Papers
 * Empty Container Repositioning under Demand Uncertainty with Multiple Transportation Speed Options: An Approximate Dynamic Programming Approach
 * Robust Skyport Location and Network Design for UAM Systems under Aircraft Failures: A Column-and-constraint Generation Approach
-* E-commerce Supply Chain Planning with Space-as-a-Service: Two-stage Stochastic Programming Approach
 * Empty Container Repositioning Problem Considering Facility Installation and Utilization for Foldable Containers under Uncertainty
 * Last-Mile Delivery Route Optimization with Integration of Public Transportation and Drones
 * Column-and-constraint Generation Approach for UAV-assisted Monitoring in Port Terminals under Obstacle Uncertainty
