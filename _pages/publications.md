@@ -10,7 +10,7 @@ author_profile: true
 <ol reversed start="29"> 
   <li>
 	Empty container repositioning under demand uncertainty with multiple transportation speed options: an approximate dynamic programming approach
-    <br>J. Choi, S. Na, and <b>Y. Shin</b>*. (202Accepted6)
+    <br>J. Choi, S. Na, and <b>Y. Shin</b>*. (Accepted)
     <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>
   </li>
   <li>
