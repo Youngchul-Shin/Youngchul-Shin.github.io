@@ -7,7 +7,12 @@ author_profile: true
 
 ## International Journal - SCI(E) & SSCI
 
-<ol reversed start="28"> 
+<ol reversed start="29"> 
+  <li>
+	Empty container repositioning under demand uncertainty with multiple transportation speed options: an approximate dynamic programming approach
+    <br>J. Choi, S. Na, and <b>Y. Shin</b>*. (202Accepted6)
+    <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>
+  </li>
   <li>
     Robust skyport location and network design for UAM systems under aircraft failures: A column-and-constraint generation approach  
     <br>G. Kim, Y. Jeong, and <b>Y. Shin*</b>. (Accepted)
@@ -192,7 +197,6 @@ author_profile: true
 </ol>
 
 ## Submitted Papers
-* Empty Container Repositioning under Demand Uncertainty with Multiple Transportation Speed Options: An Approximate Dynamic Programming Approach
 * Closed-Loop Supply Chain Model with Third-Party Logistics-Based Return Management System: A Two-stage Stochastic Programming Approach
 * Empty Container Repositioning Problem Considering Facility Installation and Utilization for Foldable Containers under Uncertainty
 * Last-Mile Delivery Route Optimization with Integration of Public Transportation and Drones
