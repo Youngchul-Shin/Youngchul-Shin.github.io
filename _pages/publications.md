@@ -29,7 +29,7 @@ author_profile: true
     <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>
   </li>  
   <li>
-	Alleviation of OHT vehicle congestion in semiconductor FAB with dynamic link weight control: a reinforcement learning approach
+	Alleviation of OHT vehicle congestion in semiconductor FAB with dynamic link weight control: A reinforcement learning approach
     <br>B. Koo, Y. Kim, J. Choi, S. Jun*, and <b>Y. Shin</b>*. (Online published)
     <a href="https://www.tandfonline.com/journals/tprs20"><i>International Journal of Production Research</i></a>
   </li>
