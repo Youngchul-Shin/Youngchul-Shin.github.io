@@ -9,7 +9,7 @@ author_profile: true
 
 <ol reversed start="29"> 
   <li>
-	Empty container repositioning under demand uncertainty with multiple transportation speed options: an approximate dynamic programming approach
+	Empty container repositioning under demand uncertainty with multiple transportation speed options: An approximate dynamic programming approach
     <br>J. Choi, S. Na, and <b>Y. Shin</b>*. (Accepted)
     <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>
   </li>
@@ -19,7 +19,7 @@ author_profile: true
     <a href="https://www.sciencedirect.com/journal/transportation-research-part-b-methodological"><i>Transportation Research Part B: Methodological</i></a>
   </li>  
   <li>
-    E-commerce supply chain planning with Space-as-a-Service: two-stage stochastic programming approach
+    E-commerce supply chain planning with Space-as-a-Service: Two-stage stochastic programming approach
     <br>S. Na, S. Yoon, J. Lee*, and <b>Y. Shin*</b>. (Accepted)
     <a href="https://www.sciencedirect.com/journal/socio-economic-planning-sciences"><i>Socio-Economic Planning Sciences</i></a>
   </li>  
