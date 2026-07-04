@@ -202,7 +202,6 @@ author_profile: true
 </ol>
 
 ## Submitted Papers
-* Closed-Loop Supply Chain Model with Third-Party Logistics-Based Return Management System: A Two-stage Stochastic Programming Approach
 * Empty Container Repositioning Problem Considering Facility Installation and Utilization for Foldable Containers under Uncertainty
 * Last-Mile Delivery Route Optimization with Integration of Public Transportation and Drones
 * Column-and-constraint Generation Approach for UAV-assisted Monitoring in Port Terminals under Obstacle Uncertainty
