@@ -7,8 +7,14 @@ author_profile: true
 
 ## International Journal - SCI(E) & SSCI
 
-<ol reversed start="29"> 
+<ol reversed start="30"> 
   <li>
+    Closed-loop supply chain model with third-party logistics–based return management system
+    <br>S. Yoon, Y. Lee*, and <b>Y. Shin</b>*. (Accepted)
+    <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
+      <i>Transportation Research Part E: Logistics and Transportation Review</i></a>
+  </li>
+<li>
 	Empty container repositioning under demand uncertainty with multiple transportation speed options: An approximate dynamic programming approach
     <br>J. Choi, S. Na, and <b>Y. Shin</b>*. (Accepted)
     <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>
@@ -53,8 +59,7 @@ author_profile: true
     <br>J. Lee and <b>Y. Shin</b>*. (2026)
     <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
       <i>Transportation Research Part E: Logistics and Transportation Review</i></a>, 210, 104727.
-  </li>
-  
+  </li>  
   <li>
 	Scenario decomposition approach for mobile multi-agent monitoring under failure
     <br>G. Kim, <b>Y. Shin</b>, and Y. Jeong*. (2026)
