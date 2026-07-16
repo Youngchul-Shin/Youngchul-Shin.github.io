@@ -10,28 +10,28 @@ author_profile: true
 <ol reversed start="30"> 
   <li>
     Closed-loop supply chain model with third-party logistics–based return management system
-    <br>S. Yoon, Y. Lee*, and <b>Y. Shin</b>*. (Accepted)
+    <br>S. Yoon, Y. Lee*, and <b>Y. Shin</b>*. (Online published)
     <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
       <i>Transportation Research Part E: Logistics and Transportation Review</i></a>
   </li>
 <li>
 	Empty container repositioning under demand uncertainty with multiple transportation speed options: An approximate dynamic programming approach
-    <br>J. Choi, S. Na, and <b>Y. Shin</b>*. (Accepted)
+    <br>J. Choi, S. Na, and <b>Y. Shin</b>*. (Online published)
     <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>
   </li>
   <li>
     Robust skyport location and network design for UAM systems under aircraft failures: A column-and-constraint generation approach  
-    <br>G. Kim, Y. Jeong, and <b>Y. Shin*</b>. (Accepted)
+    <br>G. Kim, Y. Jeong, and <b>Y. Shin*</b>. (Online published)
     <a href="https://www.sciencedirect.com/journal/transportation-research-part-b-methodological"><i>Transportation Research Part B: Methodological</i></a>
   </li>  
   <li>
     E-commerce supply chain planning with Space-as-a-Service: Two-stage stochastic programming approach
-    <br>S. Na, S. Yoon, J. Lee*, and <b>Y. Shin*</b>. (Accepted)
+    <br>S. Na, S. Yoon, J. Lee*, and <b>Y. Shin*</b>. (Online published)
     <a href="https://www.sciencedirect.com/journal/socio-economic-planning-sciences"><i>Socio-Economic Planning Sciences</i></a>
   </li>  
   <li>
     Risk-averse supplier selection and order allocation problems under supplier disruption in a dominant supplier market
-    <br>S. Oh, <b>Y. Shin</b>, and I.K. Moon*. (Accepted)
+    <br>S. Oh, <b>Y. Shin</b>, and I.K. Moon*. (Online published)
     <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>
   </li>  
   <li>
