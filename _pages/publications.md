@@ -113,7 +113,7 @@ author_profile: true
   <li>
     Resilient shuttle vehicle plan under route disruption scenarios and ticketing policies
     <br>X. Feng, D. Li, <b>Y. Shin</b>, and Y. Zhou*. (2024)
-    <a href="https://www.tandfonline.com/journals/rcit20"><i>Current Issues in Tourism</i></a>, 1 - 20.
+    <a href="https://www.tandfonline.com/journals/rcit20"><i>Current Issues in Tourism</i></a>, 29(13), 2549–2557
   </li>
 
   <li>
