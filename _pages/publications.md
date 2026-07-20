@@ -10,24 +10,24 @@ author_profile: true
 <ol reversed start="30"> 
   <li>
     Closed-loop supply chain model with third-party logistics–based return management system
-    <br>S. Yoon, Y. Lee*, and <b>Y. Shin</b>*. (Online published)
+    <br>S. Yoon, Y. Lee*, and <b>Y. Shin</b>*. (2026)
     <a href="https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review">
-      <i>Transportation Research Part E: Logistics and Transportation Review</i></a>
+      <i>Transportation Research Part E: Logistics and Transportation Review</i></a>, 215, 105077.
   </li>
 <li>
 	Empty container repositioning under demand uncertainty with multiple transportation speed options: An approximate dynamic programming approach
-    <br>J. Choi, S. Na, and <b>Y. Shin</b>*. (Online published)
-    <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>
+    <br>J. Choi, S. Na, and <b>Y. Shin</b>*. (2026)
+    <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>, 112219.
   </li>
   <li>
     Robust skyport location and network design for UAM systems under aircraft failures: A column-and-constraint generation approach  
-    <br>G. Kim, Y. Jeong, and <b>Y. Shin*</b>. (Online published)
-    <a href="https://www.sciencedirect.com/journal/transportation-research-part-b-methodological"><i>Transportation Research Part B: Methodological</i></a>
+    <br>G. Kim, Y. Jeong, and <b>Y. Shin*</b>. (2026)
+    <a href="https://www.sciencedirect.com/journal/transportation-research-part-b-methodological"><i>Transportation Research Part B: Methodological</i></a>, 211, 103530.
   </li>  
   <li>
     E-commerce supply chain planning with Space-as-a-Service: Two-stage stochastic programming approach
-    <br>S. Na, S. Yoon, J. Lee*, and <b>Y. Shin*</b>. (Online published)
-    <a href="https://www.sciencedirect.com/journal/socio-economic-planning-sciences"><i>Socio-Economic Planning Sciences</i></a>
+    <br>S. Na, S. Yoon, J. Lee*, and <b>Y. Shin*</b>. (2026)
+    <a href="https://www.sciencedirect.com/journal/socio-economic-planning-sciences"><i>Socio-Economic Planning Sciences</i></a>, 102537.
   </li>  
   <li>
     Risk-averse supplier selection and order allocation problems under supplier disruption in a dominant supplier market
