@@ -27,7 +27,7 @@ author_profile: true
   <li>
     E-commerce supply chain planning with Space-as-a-Service: Two-stage stochastic programming approach
     <br>S. Na, S. Yoon, J. Lee*, and <b>Y. Shin*</b>. (2026)
-    <a href="https://www.sciencedirect.com/journal/socio-economic-planning-sciences"><i>Socio-Economic Planning Sciences</i></a>, 102537.
+    <a href="https://www.sciencedirect.com/journal/socio-economic-planning-sciences"><i>Socio-Economic Planning Sciences</i></a>, 106, 102537.
   </li>  
   <li>
     Risk-averse supplier selection and order allocation problems under supplier disruption in a dominant supplier market
