@@ -52,7 +52,7 @@ author_profile: true
   <li>
 	Last-mile delivery route optimization through collaborative underground logistics system
     <br>D. Kim, S. Yoon, and <b>Y. Shin</b>*. (2026)
-    <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>, 216, 111978
+    <a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><i>Computers & Industrial Engineering</i></a>, 216, 111978.
   </li>
   <li>
     E-commerce supply chain network with flexible leasing capacity of fulfillment centers using robust optimization
