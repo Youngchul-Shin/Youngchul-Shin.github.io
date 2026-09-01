@@ -16,7 +16,7 @@ redirect_from:
   * Alumni: 김도현, 구본우, 박찬영
 
 ## Work Experience
-* Associate Professor, Ajou University (2026 - Current)
+* Associate Professor, Ajou University (2026 - Present)
 * Assistant Professor, Ajou University (2022 - 2026)
 * Division of DS, Samsung Electronics (2020 - 2022)
   * Staff (Senior) Engineer, AMHS Group, MES Team, DIT (Innovation) Center 
