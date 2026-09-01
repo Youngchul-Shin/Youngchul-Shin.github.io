@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Youngchul Shin
 * Associate Professor, Ph.D.
-* Department of Industrial Engineering, Ajou University.
+* Department of Industrial Engineering, Ajou University
 * E-mail: youngchul@ajou.ac.kr
 * Phone: +82-31-219-2424
 * Lab: [SLSCM Lab](https://ycshin.oopy.io/) (Smart Logistics & SCM Lab)
