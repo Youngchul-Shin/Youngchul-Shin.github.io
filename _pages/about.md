@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## Youngchul Shin
-* Assistant Professor, Ph.D.
+* Associate Professor, Ph.D.
 * Dept. of Industrial Engineering, Ajou Univ.
 * E-mail: youngchul@ajou.ac.kr
 * Phone: +82-31-219-2424
@@ -16,7 +16,8 @@ redirect_from:
   * Alumni: 김도현, 구본우, 박찬영
 
 ## Work Experience
-* Ajou University (2022 - Current)
+* Associate Professor, Ajou University (2026 - Current)
+* Assistant Professor, Ajou University (2022 - 2026)
 * Division of DS, Samsung Electronics (2020 - 2022)
   * Staff (Senior) Engineer, AMHS Group, MES Team, DIT (Innovation) Center 
 
