@@ -12,7 +12,8 @@ redirect_from:
 * E-mail: youngchul@ajou.ac.kr
 * Phone: +82-31-219-2424
 * Lab: [SLSCM Lab](https://ycshin.oopy.io/) (Smart Logistics & SCM Lab)
-  * Integrated M.S. & Ph.D. Students: [윤상준](https://sangjuny8n.github.io/), [최재경](https://jaekoung-choi.github.io/), [나승채](https://seungchaena.github.io/), 김하연, 정호준, 이원재
+  * Integrated M.S. & Ph.D. Students: [윤상준](https://sangjuny8n.github.io/), [최재경](https://jaekoung-choi.github.io/), [나승채](https://seungchaena.github.io/), 정호준, 이원재
+  * M.S. Students: 김하연, 김형구
   * Alumni: 김도현, 구본우, 박찬영
 
 ## Work Experience
