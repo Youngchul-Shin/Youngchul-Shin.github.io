@@ -46,8 +46,8 @@ author_profile: true
   </li>  	
   <li>
     Robust optimization approach to a proactive balancing strategy of idle OHT vehicles
-    <br>H. Kim, Y. Kang, and <b>Y. Shin</b>*. (Online published)
-    <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>
+    <br>H. Kim, Y. Kang, and <b>Y. Shin</b>*. (2026)
+    <a href="https://www.tandfonline.com/journals/geno20"><i>Engineering Optimization</i></a>, 58(9), 2761 - 2784.
   </li>  
   <li>
 	Last-mile delivery route optimization through collaborative underground logistics system
