@@ -208,6 +208,7 @@ author_profile: true
 * Optimization of Sensor Locations on Construction Sites for Digital Twin-based Environmental Information Management
 * Coordination of Decentralized Semiconductor Manufacturing Systems via Key Performance Indicator Design
 * Cooperative Path Optimization of Hybrid Unmanned Mobile Robots for Efficient and Comprehensive Data Acquisition in Construction Sites
+* An Efficient Algorithm for Multi-port Container Stowage Planning with Foldable Containers under Weight Balance Constraints
 
 ## Patents
 * OHT 경로 제어 방법 및 장치 (2025), 출원: 10-2025-0164977
