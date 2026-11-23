@@ -211,6 +211,7 @@ author_profile: true
 * An Efficient Algorithm for Multi-port Container Stowage Planning with Foldable Containers under Weight Balance Constraints
 * Supplier Selection and Order Allocation Problems Considering Disruption and Tariff Uncertainty
 * Demand Responsive Transit with Flexible Boarding Locations: An Integrated Logic-Based Benders Decomposition and Branch-and-Price Algorithm
+* Two-Echelon Location-Routing Problem with Buy-Online-Pickup-in-Store and Buy-Online-Return-in-Store Services
 
 ## Patents
 * OHT 경로 제어 방법 및 장치 (2025), 출원: 10-2025-0164977
